@@ -1,0 +1,38 @@
+{  
+   "img":"http://dreamicus.com/data/image/image-04.jpg",
+   "title":"Test title",
+   "list":[  
+      {  
+         "type":"title",
+         "title":"Title"
+      },
+      {  
+         "type":"text",
+         "text":"A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well."
+      },
+      {  
+         "type":"image",
+         "url":"http://www.artecreativo.net/op/598/composition-boring-sky-sunset.jpg"
+      },
+      {  
+         "type":"text",
+         "text":"A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well."
+      },
+      {  
+         "type":"title",
+         "title":"title"
+      },
+      {  
+         "type":"image",
+         "url":"http://www.artecreativo.net/op/598/composition-boring-sky-sunset.jpg"
+      },
+      {  
+         "type":"text",
+         "text":"A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well."
+      },
+      {  
+         "type":"link",
+         "url":"url"
+      }
+   ]
+}
