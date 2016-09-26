@@ -6,33 +6,33 @@
          "title":"First",
          "description":"Description 1",
          "img":"https://make.wordpress.org/core/files/2016/02/2A-3-1.jpg",
-         "url":"https://bitbucket.org/!api/2.0/snippets/primankadengames/yonMX/e10e196ca0e665289c98c2d900f25f744190cee5/files/content.json"
+         "url":"http://tentkls.github.io/helloween/1.json"
       }, 
       {  
          "title":"second",
          "description":"description",
-         "url":"https://bitbucket.org/!api/2.0/snippets/primankadengames/yonMX/6d5191cbed8948966310dff0f5f752023f65a7ff/files/content.json"
+         "url":"http://tentkls.github.io/helloween/2.json"
       },
       {  
          "title":"First 1",
          "description":"Description 1",
          "img":"https://make.wordpress.org/core/files/2016/02/2A-3-1.jpg",
-         "url":"https://bitbucket.org/!api/2.0/snippets/primankadengames/yonMX/6d5191cbed8948966310dff0f5f752023f65a7ff/files/content.json"
+         "url":"http://tentkls.github.io/helloween/3.json"
       }, 
       {  
          "title":"second 1",
          "description":"description",
-         "url":"https://bitbucket.org/!api/2.0/snippets/primankadengames/yonMX/6d5191cbed8948966310dff0f5f752023f65a7ff/files/content.json"
+         "url":"http://tentkls.github.io/helloween/4.json"
       }, 
       {  
          "title":"test",
          "description":"description",
-         "url":"https://bitbucket.org/!api/2.0/snippets/primankadengames/yonMX/6d5191cbed8948966310dff0f5f752023f65a7ff/files/content.json"
+         "url":"http://tentkls.github.io/helloween/5.json"
       }, 
       {  
          "title":"Magenta",
          "description":"description",
-         "url":"https://bitbucket.org/!api/2.0/snippets/primankadengames/yonMX/6d5191cbed8948966310dff0f5f752023f65a7ff/files/content.json",
+         "url":"http://tentkls.github.io/helloween/6.json,
          "img":"https://www.smashingmagazine.com/wp-content/uploads/2016/01/07-responsive-image-example-castle-7-opt.jpg"
       }
    ]
