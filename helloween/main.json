@@ -21,13 +21,12 @@
          "url":"https://tentkls.github.io/helloween/page3.json"
       }, 
       {  
-         "title":"second 1",
-         "description":"description",
+         "title":"Facts",
+         "description":"All About the Pumpkin",
          "url":"https://tentkls.github.io/helloween/page4.json"
       }, 
       {  
-         "title":"test",
-         "description":"description",
+         "title":"Patterns",
          "url":"https://tentkls.github.io/helloween/page5.json"
       }
    ]

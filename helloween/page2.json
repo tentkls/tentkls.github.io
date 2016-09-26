@@ -1,6 +1,6 @@
 {  
    "img":"http://cms.cb.asmsrv.co/cnvyr/cpprimary/590x393/halloween-pumpkins-faces-porch.jpg",
-   "title":"Make a Halloween Pumpkin",
+   "title":"Tools",
    "list":[  
       {  
          "type":"title",
@@ -21,6 +21,10 @@
       {  
          "type":"title",
          "title":"Scooper"
+      },
+      {  
+         "type":"image",
+         "url":"https://s3-production.bobvila.com/pages/10915/cover/professional-pumpkin-carving-tools-1.jpg?1439913076"
       },
       {  
          "type":"text",
