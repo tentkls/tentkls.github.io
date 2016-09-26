@@ -23,10 +23,12 @@
       {  
          "title":"Facts",
          "description":"All About the Pumpkin",
+         "img":"http://www.carvemypumpkin.com/wp-content/uploads/2014/09/eydwhps1.jpg",
          "url":"https://tentkls.github.io/helloween/page4.json"
       }, 
       {  
          "title":"Patterns",
+         "img":"http://www.designbolts.com/wp-content/uploads/2014/09/Free-Scary-Halloween-Pumpkin-Carving-Patterns-Stencils-Ideas-2014-4.jpg",
          "url":"https://tentkls.github.io/helloween/page5.json"
       }
    ]
