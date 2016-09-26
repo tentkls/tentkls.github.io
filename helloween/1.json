@@ -1,6 +1,6 @@
 {  
    "img":"http://dreamicus.com/data/image/image-04.jpg",
-   "title":"Test title",
+   "title":"Make a Halloween Pumpkin",
    "list":[  
       {  
          "type":"title",
@@ -8,31 +8,69 @@
       },
       {  
          "type":"text",
-         "text":"A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well."
+         "text":"Buy a pumpkin from your local supermarket or from a farm shop. Buy one that's a good size with little visible damage/marks."
       },
       {  
          "type":"image",
-         "url":"http://www.artecreativo.net/op/598/composition-boring-sky-sunset.jpg"
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-1.jpg.webp"
       },
       {  
          "type":"text",
-         "text":"A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well."
-      },
-      {  
-         "type":"title",
-         "title":"title"
+         "text":"Scrape away the walls until they're about an inch thick. There should be no seeds or pumpkin strings left."
       },
       {  
          "type":"image",
-         "url":"http://www.artecreativo.net/op/598/composition-boring-sky-sunset.jpg"
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-2.jpg.webp"
       },
       {  
          "type":"text",
-         "text":"A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well. A new API was added with Lollipop that helps extract prominent colors from a Bitmap. See my answer below for details. Since the Palette class mentioned is in the support7 library, it should work in older versions of Android as well."
+         "text":"Make sure you do so at an angle (tip of the knife facing the center of the pumpkin) so that the lid doesn't fall into the pumpkin. You may want to cut a small notch into the lid too so it doesn't fall."
+      },{  
+         "type":"image",
+         "url":"http://pad1.whstatic.com/images/thumb/f/f6/Make-a-Halloween-Pumpkin-Step-3.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-3.jpg.webp"
       },
       {  
-         "type":"link",
-         "url":"url"
+         "type":"text",
+         "text":"Leave to dry overnight if desired"
+      },{  
+         "type":"image",
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-4.jpg.webp"
+      },
+      {  
+         "type":"text",
+         "text":"Make sure it suits your ability. Thinner bits will be harder to cut out."
+      },{  
+         "type":"image",
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-5.jpg.webp"
+      },
+      {  
+         "type":"text",
+         "text":"Premade patterns:"
+      },{  
+         "type":"image",
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-6.jpg.webp"
+      },
+      {  
+         "type":"text",
+         "text":"Carve the pumpkin"
+      },{  
+         "type":"image",
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-7.jpg.webp"
+      },
+      {  
+         "type":"text",
+         "text":"Decorate further if desired."
+      },{  
+         "type":"image",
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-8.jpg.webp"
+      },
+      {  
+         "type":"text",
+         "text":"Draw a circle around the stem on the top where you want the lid to go"
+      },
+      {  
+         "type":"image",
+         "url":"http://pad3.whstatic.com/images/thumb/9/9a/Make-a-Halloween-Pumpkin-Step-1.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-9.jpg.webp"
       }
    ]
 }
