@@ -6,34 +6,29 @@
          "title":"How to Carve Halloween Pumpkins",
          "description":"Ever looked at the carved pumpkins at Halloween and wondered how you can create your own that way? Well now you can!",
          "img":"http://pad2.whstatic.com/images/thumb/4/4a/Make-a-Halloween-Pumpkin-Step-9.jpg/aid449581-728px-Make-a-Halloween-Pumpkin-Step-9.jpg.webp",
-         "url":"http://tentkls.github.io/helloween/1.json"
+         "url":"http://tentkls.github.io/helloween/page1.json"
       }, 
       {  
          "title":"Tools",
          "description":"Tools You Need to Carve a Pumpkin Properly",
-         "url":"http://tentkls.github.io/helloween/2.json"
+         "img":"http://cms.cb.asmsrv.co/cnvyr/how-to-carve-halloween-pumpkins-trace.jpg",
+         "url":"http://tentkls.github.io/helloween/page2.json"
       },
       {  
-         "title":"First 1",
+         "title":"Ideas",
          "description":"Description 1",
          "img":"https://make.wordpress.org/core/files/2016/02/2A-3-1.jpg",
-         "url":"http://tentkls.github.io/helloween/3.json"
+         "url":"http://tentkls.github.io/helloween/page3.json"
       }, 
       {  
          "title":"second 1",
          "description":"description",
-         "url":"http://tentkls.github.io/helloween/4.json"
+         "url":"http://tentkls.github.io/helloween/page4.json"
       }, 
       {  
          "title":"test",
          "description":"description",
-         "url":"http://tentkls.github.io/helloween/5.json"
-      }, 
-      {  
-         "title":"Magenta",
-         "description":"description",
-         "url":"http://tentkls.github.io/helloween/6.json",
-         "img":"https://www.smashingmagazine.com/wp-content/uploads/2016/01/07-responsive-image-example-castle-7-opt.jpg"
+         "url":"http://tentkls.github.io/helloween/page5.json"
       }
    ]
 }
