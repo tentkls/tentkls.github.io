@@ -1,0 +1,37 @@
+{  
+   "img":"https://s-media-cache-ak0.pinimg.com/564x/30/79/ff/3079ff495526505d1dbc3865e9c408f4.jpg",
+   "title":"Bridal Dresses",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://sangmaestro.com/wp-content/uploads/2010/03/white-wedding-dresses.jpg",
+         "url":"https://tentkls.github.io/com.wedding/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"https://s-media-cache-ak0.pinimg.com/564x/57/0b/30/570b30b4ced55b825f666066ce5fdc5c.jpg",
+         "url":"https://tentkls.github.io/com.wedding/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://viborplatya.ru/img/9_img4.jpg",
+         "url":"https://tentkls.github.io/com.wedding/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"https://www.rocknrollbride.com/wp-content/uploads/2011/12/seafoam.png",
+         "url":"https://tentkls.github.io/com.wedding/p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"http://www.berketexbride.com/prodimg/TF3147_1_Zoom.jpg",
+         "url":"https://tentkls.github.io/com.wedding/p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"https://s-media-cache-ak0.pinimg.com/564x/46/e3/d0/46e3d0b870dd9ffe92f4ed0a64a6c556.jpg",
+         "url":"https://tentkls.github.io/com.wedding/p6.json"
+      }
+   ]
+}
