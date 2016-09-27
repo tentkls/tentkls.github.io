@@ -1,6 +1,7 @@
 {  
    "img":"http://www.fullyillustrated.com/wp-content/uploads/2010/10/Fully-Illustrated-pumpkin-halloween-stage3.jpg",
    "title":"Halloween Pumpkins",
+   "type":"simple",
    "list":[  
       {  
          "title":"How to Carve Halloween Pumpkins",
@@ -16,7 +17,6 @@
       },
       {  
          "title":"Ideas",
-         "description":"Description 1",
          "img":"https://make.wordpress.org/core/files/2016/02/2A-3-1.jpg",
          "url":"https://tentkls.github.io/helloween/page3.json"
       }, 
