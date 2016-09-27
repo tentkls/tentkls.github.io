@@ -1,0 +1,37 @@
+{  
+   "img":"http://www.fullyillustrated.com/wp-content/uploads/2010/10/Fully-Illustrated-pumpkin-halloween-stage3.jpg",
+   "title":"Kitchen Design",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://www.williamstownfair.com/wp-content/uploads/2015/04/kit.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://www.eleven14kitchen.com/gallery/Retro-Kitchen-Design-Ideas-Pictures/Retro-Kitchen-Design-Ideas1.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://www.cooltiles.com/reviews/dynimg/cr53432/2_3-1407169924249.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://nyceiling.com/content/images/news/pink_retro_kitchen_interior.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"https://s-media-cache-ak0.pinimg.com/564x/f6/48/07/f6480767d9a4fc192c0b3431a0f438fa.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"http://gxrj88.com/wp-content/uploads/2016/04/rafturi-cromate.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/p6.json"
+      }
+   ]
+}
