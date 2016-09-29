@@ -1,0 +1,37 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Kitchen Design",
+         "img":"http://clv.h-cdn.co/assets/cm/15/09/54eb56a0cf4e7_-_01-blue-ribbon-kitchen-island-1214-xln.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/homedecor/p1.json"
+      }, 
+      {  
+         "title":"Living Room",
+         "img":"http://hbu.h-cdn.co/assets/16/34/980x640/gallery-hbx090116hajj01-1.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/homedecor/p2.json"
+      },
+      {  
+         "title":"Bathroom",
+         "img":"http://hbu.h-cdn.co/assets/16/33/480x629/hbx090116sikes04.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/homedecor/p3.json"
+      }, 
+      {  
+         "title":"Bedroom",
+         "img":"http://hbu.h-cdn.co/assets/16/34/980x651/hbx090116reath05.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/homedecor/p4.json"
+      }, 
+      {  
+         "title":"Hallway",
+         "img":"http://i.shelterness.com/hallway-design-ideas-4.jpeg",
+         "url":"https://tentkls.github.io/kitchen.design/homedecor/p5.json"
+      }, 
+      {  
+         "title":"Garden",
+         "img":"http://cdn.freshome.com/wp-content/uploads/2012/05/garden_landscape_designs.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/homedecor/p6.json"
+      }
+   ]
+}
