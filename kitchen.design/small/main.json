@@ -1,0 +1,22 @@
+{  
+   "img":"http://edc.h-cdn.co/assets/15/06/07-kitchen-g1302.jpg",
+   "title":"SMALL KITCHENS",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://edc.h-cdn.co/assets/15/43/480x600/gallery-1445637195-toddalexander-021.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/small/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://edc.h-cdn.co/assets/15/08/480x653/edc030115durkin09.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/small/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://edc.h-cdn.co/assets/15/06/480x720/04-kitchen-g899.jpg",
+         "url":"https://tentkls.github.io/kitchen.design/small/p3.json"
+      }
+   ]
+}
