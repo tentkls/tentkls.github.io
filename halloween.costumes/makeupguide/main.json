@@ -4,34 +4,34 @@
    "type":"simple",
    "list":[  
       {  
-         "title":"Gallery 1",
+         "title":"CHEETAH MAKEUP",
          "img":"",
          "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p1.json"
       }, 
       {  
-         "title":"Gallery 2",
-         "img":"",
-         "url":"https://tentkls.github.io//p2.json"
+         "title":"Sugar Skull",
+         "img":"https://images.britcdn.com/wp-content/uploads/2013/10/Dead-1-Main.jpg",
+         "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p2.json"
       },
       {  
-         "title":"Gallery 3",
+         "title":"Spider",
          "img":"",
-         "url":"https://tentkls.github.io//p3.json"
+         "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p3.json"
       }, 
       {  
-         "title":"Gallery 4",
-         "img":"",
-         "url":"https://tentkls.github.io//p4.json"
+         "title":"Queen of Hearts",
+         "img":"http://slapdashmom.com/wp-content/uploads/2013/08/queen1a.jpg",
+         "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p4.json"
       }, 
       {  
-         "title":"Gallery 5",
+         "title":"Fairy makeup",
          "img":"",
-         "url":"https://tentkls.github.io//p5.json"
+         "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p5.json"
       }, 
       {  
-         "title":"Gallery 6",
+         "title":"Cleopatra",
          "img":"",
-         "url":"https://tentkls.github.io//p6.json"
+         "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p6.json"
       }
    ]
 }

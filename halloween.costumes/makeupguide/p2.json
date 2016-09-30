@@ -1,0 +1,23 @@
+{  
+   "img":"https://images.britcdn.com/wp-content/uploads/2013/10/Dead-1-Main.jpg",
+   "title":"Sugar Skull",
+   "type":"content",
+   "list":[  
+      {  
+         "type":"title",
+         "title":"How to Paint a Sugar Skull… On Your Face!"
+      },
+      {  
+         "type":"text",
+         "text":"Sugar skulls are really popular, but the makeup is what makes them special. Get fancy like this: "
+      },
+      {  
+         "type":"image",
+         "url":"http://cdn3.gurl.com/wp-content/uploads/2014/10/sugarskullmakeup.jpg"
+      },
+      {  
+         "type":"link",
+         "url":"http://www.brit.co/sugar-skull-makeup/"
+      }
+   ]
+}
