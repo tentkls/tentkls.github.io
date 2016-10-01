@@ -1,0 +1,37 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://pluslook.eu/wp-content/uploads/405985.jpg",
+         "url":"https://tentkls.github.io/dresses/plussize/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://pluslook.eu/wp-content/uploads/433538.jpg",
+         "url":"https://tentkls.github.io/dresses/plussize/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://pluslook.eu/wp-content/uploads/365843.jpg",
+         "url":"https://tentkls.github.io/dresses/plussize/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://www.beflirtydresses.com/acatalog/raw_d_31012034-1-plus-size-evening-dress.jpg",
+         "url":"https://tentkls.github.io/dresses/plussize/p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"https://s-media-cache-ak0.pinimg.com/564x/1c/f7/d4/1cf7d420b700b5dd01bb2feac46f70c8.jpg",
+         "url":"https://tentkls.github.io/dresses/plussize/p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"http://hottopic.scene7.com/is/image/HotTopic/10458309_hi?$pdp_hero_zoom$",
+         "url":"https://tentkls.github.io/dresses/plussize/p6.json"
+      }
+   ]
+}
