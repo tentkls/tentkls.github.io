@@ -5,7 +5,7 @@
    "list":[  
       {  
          "title":"CHEETAH MAKEUP",
-         "img":"",
+         "img":"http://animals.sandiegozoo.org/sites/default/files/juicebox_slides/cheetah_05.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p1.json"
       }, 
       {  
@@ -15,7 +15,7 @@
       },
       {  
          "title":"Spider",
-         "img":"",
+         "img":"http://weneedfun.com/wp-content/uploads/2016/08/Spider-Web-Photos-201.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p3.json"
       }, 
       {  
@@ -25,13 +25,18 @@
       }, 
       {  
          "title":"Fairy makeup",
-         "img":"",
+         "img":"http://cdn.playbuzz.com/cdn/9d268e22-8bf1-4305-835c-a95e1a4331d4/efc80f6a-b017-489e-9dff-d6315817080f.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p5.json"
       }, 
       {  
          "title":"Cleopatra",
-         "img":"",
+         "img":"https://i.ytimg.com/vi/J_6Pc8J7cZc/maxresdefault.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p6.json"
+      },
+      {  
+         "title":"Bonus",
+         "img":"http://www.wassupmate.com/wp-content/uploads/2016/06/half-skull-face-halloween-makeup.jpg",
+         "url":"https://tentkls.github.io/halloween.costumes/makeupguide/p7.json"
       }
    ]
 }
