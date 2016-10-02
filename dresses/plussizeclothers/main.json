@@ -1,0 +1,37 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Tops",
+         "img":"https://cheesepurp.com/wp-content/uploads/2016/04/plus-size-womens-tops-01.jpg",
+         "url":"https://tentkls.github.io/dresses/plussizeclothers/p1.json"
+      }, 
+      {  
+         "title":"Sweater",
+         "img":"http://media.plussizetech.com/womanwithin/mc/0056_16244_mc_1674.jpg?wid=243&iq=95",
+         "url":"https://tentkls.github.io/dresses/plussizeclothers/p2.json"
+      },
+      {  
+         "title":"Pants",
+         "img":"https://saiditagain.com/wp-content/uploads/2016/07/plus-size-pants-28.jpg",
+         "url":"https://tentkls.github.io/dresses/plussizeclothers/p3.json"
+      }, 
+      {  
+         "title":"Skirts",
+         "img":"http://demandware.edgesuite.net/sits_pod22/dw/image/v2/AANZ_PRD/on/demandware.static/-/Sites-ashleystewart-master/default/dw336a7ace/038-FL2047XXX_0001_front.jpg?sw=346",
+         "url":"https://tentkls.github.io/dresses/plussizeclothers/p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"https://s-media-cache-ak0.pinimg.com/originals/42/d0/d5/42d0d57b84b6f5fdf3de1fcd6eb578cc.jpg",
+         "url":"https://tentkls.github.io/dresses/plussizeclothers/p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"https://s-media-cache-ak0.pinimg.com/originals/04/5e/fd/045efd49b8d04df2b8b8d03b3fa35ef7.jpg",
+         "url":"https://tentkls.github.io/dresses/plussizeclothers/p6.json"
+      }
+   ]
+}
