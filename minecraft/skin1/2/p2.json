@@ -1,23 +1,15 @@
 {  
-   "img":"",
+   "img":"https://minecraft.net/static/pages/img/minecraft-hero.df1112867f04.jpg",
    "title":"",
    "type":"content",
    "list":[  
       {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
-      {  
          "type":"image",
-         "url":""
+         "url":"http://minecraft-inside.ru/uploads/files/2016-10/preview_nemkus22.png"
       },
       {  
          "type":"link",
-         "url":""
+         "url":"http://minecraft-inside.ru/download/46456"
       }
    ]
 }

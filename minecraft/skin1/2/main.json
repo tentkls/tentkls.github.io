@@ -4,33 +4,33 @@
    "type":"simple",
    "list":[  
       {  
-         "title":"Gallery 1",
-         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_enotbro.png",
+         "title":"Skin 1",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_vika333333333333444444.png",
          "url":"https://tentkls.github.io/minecraft/skin1/2/p1.json"
       }, 
       {  
-         "title":"Gallery 2",
-         "img":"",
+         "title":"Skin 2",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_nemkus22.png",
          "url":"https://tentkls.github.io/minecraft/skin1/2/p2.json"
       },
       {  
-         "title":"Gallery 3",
-         "img":"",
+         "title":"Skin 3",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_kronasify.png",
          "url":"https://tentkls.github.io/minecraft/skin1/2/p3.json"
       }, 
       {  
-         "title":"Gallery 4",
-         "img":"",
+         "title":"Skin 4",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_theenge.png",
          "url":"https://tentkls.github.io/minecraft/skin1/2/p4.json"
       }, 
       {  
-         "title":"Gallery 5",
-         "img":"",
+         "title":"Skin 5",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_human-1474990331405.png",
          "url":"https://tentkls.github.io/minecraft/skin1/2/p5.json"
       }, 
       {  
-         "title":"Gallery 6",
-         "img":"",
+         "title":"Skin 6",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_coolboy.png",
          "url":"https://tentkls.github.io/minecraft/skin1/2/p6.json"
       }
    ]
