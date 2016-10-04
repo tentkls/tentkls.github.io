@@ -1,0 +1,15 @@
+{  
+   "img":"https://minecraft.net/static/pages/img/minecraft-hero.df1112867f04.jpg",
+   "title":"",
+   "type":"content",
+   "list":[ 
+      {  
+         "type":"image",
+         "url":"http://minecraft-inside.ru/uploads/files/2016-10/preview_upyr.png"
+      },
+      {  
+         "type":"link",
+         "url":"http://minecraft-inside.ru/download/46488"
+      }
+   ]
+}
