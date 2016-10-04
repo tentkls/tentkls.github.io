@@ -5,12 +5,12 @@
    "list":[  
       {  
          "title":"Skin 1",
-         "img":"",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_enotbro.png",
          "url":"https://tentkls.github.io/minecraft/skin1/1/p1.json"
       }, 
       {  
          "title":"Skin 2",
-         "img":"",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_sumrak.png",
          "url":"https://tentkls.github.io/minecraft/skin1/1/p2.json"
       },
       {  
@@ -20,17 +20,17 @@
       }, 
       {  
          "title":"Skin 4",
-         "img":"",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_chotka-dvka.png",
          "url":"https://tentkls.github.io/minecraft/skin1/1/p4.json"
       }, 
       {  
          "title":"Skin 5",
-         "img":"",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_reper.png",
          "url":"https://tentkls.github.io/minecraft/skin1/1/p5.json"
       }, 
       {  
          "title":"Skin 6",
-         "img":"",
+         "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_slender-v-krovi.png",
          "url":"https://tentkls.github.io/minecraft/skin1/1/p6.json"
       }
    ]
