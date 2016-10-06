@@ -1,0 +1,37 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/fnaf/1/main.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/fnaf/2/main.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/fnaf/3/main.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/fnaf/4/main.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/fnaf/5/main.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/fnaf/6/main.json"
+      }
+   ]
+}
