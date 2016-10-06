@@ -1,23 +1,14 @@
 {  
-   "img":"",
-   "title":"",
+   "title":"shadow bonnie",
    "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
+   "list":[ 
       {  
          "type":"image",
-         "url":""
+         "url":"http://www.minecraftskins.com/thumbnails/shadow-bonnie-9732662.png"
       },
       {  
          "type":"link",
-         "url":""
+         "url":"http://www.minecraftskins.com/downloadnew.php?file=newuploaded_skins/skin_2016100513481566829.png&skid=9732662&downloadLink=1"
       }
    ]
 }

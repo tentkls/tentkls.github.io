@@ -1,23 +1,14 @@
 {  
-   "img":"",
-   "title":"",
+   "title":"Human Tangle",
    "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
+   "list":[ 
       {  
          "type":"image",
-         "url":""
+         "url":"http://www.minecraftskins.com/thumbnails/human-tangle-9733184.png"
       },
       {  
          "type":"link",
-         "url":""
+         "url":"http://www.minecraftskins.com/downloadnew.php?file=newuploaded_skins/skin_20161005200925122347.png&skid=9733184&downloadLink=1"
       }
    ]
 }

@@ -1,23 +1,14 @@
- {  
-   "img":"",
-   "title":"",
+{  
+   "title":"shirry the bear",
    "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
+   "list":[ 
       {  
          "type":"image",
-         "url":""
+         "url":"http://www.minecraftskins.com/thumbnails/shirry-the-bear-9735227.png"
       },
       {  
          "type":"link",
-         "url":""
+         "url":"http://www.minecraftskins.com/downloadnew.php?file=newuploaded_skins/skin_20161006053217123801.png&skid=9735227&downloadLink=1"
       }
    ]
 }

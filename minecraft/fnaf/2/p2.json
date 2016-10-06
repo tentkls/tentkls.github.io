@@ -1,23 +1,14 @@
 {  
-   "img":"",
-   "title":"",
+   "title":"Pupitt",
    "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
+   "list":[ 
       {  
          "type":"image",
-         "url":""
+         "url":"http://www.minecraftskins.com/thumbnails/pupitt-9735311.png"
       },
       {  
          "type":"link",
-         "url":""
+         "url":"http://www.minecraftskins.com/downloadnew.php?file=newuploaded_skins/skin_2016100605501916756.png&skid=9735311&downloadLink=1"
       }
    ]
 }

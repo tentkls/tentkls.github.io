@@ -1,16 +1,7 @@
 {  
-   "img":"",
    "title":"",
    "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
+   "list":[ 
       {  
          "type":"image",
          "url":""

@@ -1,23 +1,14 @@
- {  
-   "img":"",
-   "title":"",
+{  
+   "title":"golden arcade",
    "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
+   "list":[ 
       {  
          "type":"image",
-         "url":""
+         "url":"http://www.minecraftskins.com/thumbnails/golden-arcade-9732867.png"
       },
       {  
          "type":"link",
-         "url":""
+         "url":"http://www.minecraftskins.com/downloadnew.php?file=newuploaded_skins/skin_2016100516261672849.png&skid=9732867&downloadLink=1"
       }
    ]
 }
