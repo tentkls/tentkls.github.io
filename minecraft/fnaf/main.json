@@ -5,32 +5,32 @@
    "list":[  
       {  
          "title":"Gallery 1",
-         "img":"http://www.minecraftskins.com/thumbnails/golden-foxy-9737029.png",
+         "img":"https://tentkls.github.io/minecraft/fnaf/110.png",
          "url":"https://tentkls.github.io/minecraft/fnaf/p1.json"
       }, 
       {  
          "title":"Gallery 2",
-         "img":"http://www.minecraftskins.com/thumbnails/baby-lolbit-9735361.png",
+         "img":"https://tentkls.github.io/minecraft/fnaf/150.png",
          "url":"https://tentkls.github.io/minecraft/fnaf/p2.json"
       },
       {  
          "title":"Gallery 3",
-         "img":"http://www.minecraftskins.com/thumbnails/shadow-bonnie-9732662.png",
+         "img":"https://tentkls.github.io/minecraft/fnaf/210.png",
          "url":"https://tentkls.github.io/minecraft/fnaf/p3.json"
       }, 
       {  
          "title":"Gallery 4",
-         "img":"http://www.minecraftskins.com/thumbnails/new-marionette-9731863.png",
+         "img":"https://tentkls.github.io/minecraft/fnaf/230.png",
          "url":"https://tentkls.github.io/minecraft/fnaf/p4.json"
       }, 
       {  
          "title":"Gallery 5",
-         "img":"http://www.minecraftskins.com/thumbnails/freddy-the-bear-and-boy-9730461.png",
+         "img":"https://tentkls.github.io/minecraft/fnaf/120.png",
          "url":"https://tentkls.github.io/minecraft/fnaf/p5.json"
       }, 
       {  
          "title":"Gallery 6",
-         "img":"http://www.minecraftskins.com/thumbnails/freddy-boy-9730457.png",
+         "img":"https://tentkls.github.io/minecraft/fnaf/250.png",
          "url":"https://tentkls.github.io/minecraft/fnaf/p6.json"
       }
    ]
