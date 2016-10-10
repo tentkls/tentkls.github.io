@@ -10,28 +10,23 @@
       }, 
       {  
          "title":"Girls",
-         "img":"",
+         "img":"http://lh3.googleusercontent.com/XafuWZ1VyR-YNO30rLwbMvgKqAzCuH3AW0TDOHoKsbsAHQgMG9yErBkDgTif1U0r-KEEAg1OUPCiWFFEg_eu",
          "url":"https://tentkls.github.io/minecraft/first/p2.json"
       },
       {  
-         "title":"Gallery 3",
-         "img":"",
+         "title":"Avengers",
+         "img":"http://lh3.googleusercontent.com/bNb7Bh_c7BRHZ9nuigBys1VIYDwfURUkGXRT_TCZ4Yc_GzXEAFth3FoBsvyNKEFD8Akyhss0d7cGHqk5rpoM",
          "url":"https://tentkls.github.io/minecraft/first/p3.json"
       }, 
       {  
-         "title":"Gallery 4",
-         "img":"",
+         "title":"Dc Heroes",
+         "img":"http://lh3.googleusercontent.com/AWqOXlXq8jGlfJy4TrH1GCh-MMg3MtuXE3gaHTXYf7G8oCOyH_QR2ixIPTHcva0VXvAWv68tL1uFeIa-BUHNtA",
          "url":"https://tentkls.github.io/minecraft/first/p4.json"
       }, 
       {  
-         "title":"Gallery 5",
-         "img":"",
+         "title":"Other",
+         "img":"http://lh3.googleusercontent.com/d_0E_zQ4xn-2QZFv5V5ZZddzKPpJLvm-QhSFyNzjqOIvKU-6IfaDQ2KlaDwMa2HsH2eA_4UEW0PE64N7GDP7iA",
          "url":"https://tentkls.github.io/minecraft/first/p5.json"
-      }, 
-      {  
-         "title":"Gallery 6",
-         "img":"",
-         "url":"https://tentkls.github.io/minecraft/first/p6.json"
       }
    ]
 }
