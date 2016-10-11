@@ -1,0 +1,37 @@
+{  
+   "img":"https://s3-media2.fl.yelpcdn.com/bphoto/4jup_EO1MHKlLdCOsYOquQ/348s.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Guides",
+         "img":"https://nailpolis.s3.amazonaws.com/uploads/look/photo/processed/1406828554-2-1001/PicsArt_1406206554376.jpg",
+         "url":"https://tentkls.github.io/nails/first/p1.json"
+      }, 
+      {  
+         "title":"Guides",
+         "img":"http://www.nailartdesigns.info/wp-content/uploads/2016/03/blue-red-dotted-ombre-nails.jpg",
+         "url":"https://tentkls.github.io/nails/first/p2.json"
+      },
+      {  
+         "title":"Red",
+         "img":"https://s-media-cache-ak0.pinimg.com/originals/80/e4/24/80e4246ed7e1f9cc09d05ac0edaff64a.jpg",
+         "url":"https://tentkls.github.io/nails/first/p3.json"
+      }, 
+      {  
+         "title":"Green",
+         "img":"http://www.tamilnetonline.com/wp-content/uploads/2013/02/emerald-green-nails-trend-2013.jpg",
+         "url":"https://tentkls.github.io/nails/first/p4.json"
+      }, 
+      {  
+         "title":"Blue",
+         "img":"https://lh3.googleusercontent.com/-lv_o9KMtRgo/V4gnVd7B7uI/AAAAAAAAGwM/xukvFziC0z8/s0/Glossy-Blue-Nails-With-Silver-Glitter-Stripes-Design-Nail-Art%252520%2525281%252529.jpg",
+         "url":"https://tentkls.github.io/nails/first/p5.json"
+      }, 
+      {  
+         "title":"Pink",
+         "img":"https://s-media-cache-ak0.pinimg.com/originals/30/2b/86/302b86dcc5f3844243e879cbdaec8542.jpg",
+         "url":"https://tentkls.github.io/nails/first/p6.json"
+      }
+   ]
+}
