@@ -1,0 +1,27 @@
+{  
+   "img":"http://www.fareboom.com/Attachments/1002393-dayofdead-L.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Woman",
+         "img":"http://25.media.tumblr.com/tumblr_mbg2rhlHxe1qfp5jso1_500.jpg",
+         "url":"https://tentkls.github.io/helloween/dayofthedead/p1.json"
+      }, 
+      {  
+         "title":"Man",
+         "img":"http://www.1meee.com/wp-content/uploads/2015/10/wpid-Dia-De-Los-Muertos-Makeup-Man-2015-2016-5-375x195.jpg",
+         "url":"https://tentkls.github.io/helloween/dayofthedead/p2.json"
+      },
+      {  
+         "title":"Child",
+         "img":"https://i.ytimg.com/vi/dgwyRaLG4qA/maxresdefault.jpg",
+         "url":"https://tentkls.github.io/helloween/dayofthedead/p3.json"
+      },
+      {  
+         "title":"Masks",
+         "img":"http://f.tqn.com/y/spanish/1/W/m/Y/172013435.jpg",
+         "url":"https://tentkls.github.io/helloween/dayofthedead/p4.json"
+      }
+   ]
+}
