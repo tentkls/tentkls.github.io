@@ -1,0 +1,22 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"https://s-media-cache-ak0.pinimg.com/originals/4d/7d/a3/4d7da30d00087cf90ffb46f11cf280dc.jpg",
+         "url":"https://tentkls.github.io/wallpapers/autumn/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://wallpaper.zone/img/2714661.jpg",
+         "url":"https://tentkls.github.io/wallpapers/autumn/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Acer_rubrum_001.jpg/300px-Acer_rubrum_001.jpg",
+         "url":"https://tentkls.github.io/wallpapers/autumn/p3.json"
+      }
+   ]
+}

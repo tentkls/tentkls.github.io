@@ -1,0 +1,27 @@
+{  
+   "img":"http://www.buildupperchest.com/wp-content/uploads/2015/04/workout1.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Guidellines",
+         "img":"",
+         "url":"https://tentkls.github.io/other/fitness/p1.json"
+      }, 
+      {  
+         "title":"Tutorials",
+         "img":"",
+         "url":"https://tentkls.github.io/other/fitness/p2.json"
+      },
+      {  
+         "title":"Training",
+         "img":"",
+         "url":"https://tentkls.github.io/other/fitness/p3.json"
+      }, 
+      {  
+         "title":"Training 2",
+         "img":"",
+         "url":"https://tentkls.github.io/other/fitness/p4.json"
+      }
+   ]
+}
