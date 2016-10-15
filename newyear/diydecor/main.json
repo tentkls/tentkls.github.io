@@ -1,0 +1,37 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/diydecor/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/diydecor/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/diydecor/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/diydecor/p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/diydecor/p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/diydecor/p6.json"
+      }
+   ]
+}
