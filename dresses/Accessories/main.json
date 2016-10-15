@@ -1,0 +1,32 @@
+{  
+   "img":"http://s3.favim.com/orig/46/accessories-cute-photography-Favim.com-416116.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Rings",
+         "img":"",
+         "url":"https://tentkls.github.io/dresses/Accessories/p1.json"
+      }, 
+      {  
+         "title":"Necklace",
+         "img":"",
+         "url":"https://tentkls.github.io/dresses/Accessories/p2.json"
+      },
+      {  
+         "title":"Bracelet",
+         "img":"",
+         "url":"https://tentkls.github.io/dresses/Accessories/p3.json"
+      }, 
+      {  
+         "title":"Earrings",
+         "img":"",
+         "url":"https://tentkls.github.io/dresses/Accessories/p4.json"
+      }, 
+      {  
+         "title":"Other",
+         "img":"",
+         "url":"https://tentkls.github.io/dresses/Accessories/p5.json"
+      }
+   ]
+}
