@@ -1,36 +1,36 @@
 {  
-   "img":"",
+   "img":"http://ghk.h-cdn.co/assets/15/41/980x655/gallery-1444163618-stocking-banner.jpg",
    "title":"",
    "type":"simple",
    "list":[  
       {  
-         "title":"Gallery 1",
-         "img":"",
+         "title":"Ideas",
+         "img":"http://ghk.h-cdn.co/assets/15/47/1447968057-photo-garland.jpg",
          "url":"https://tentkls.github.io/newyear/diydecor/p1.json"
       }, 
       {  
-         "title":"Gallery 2",
-         "img":"",
+         "title":"Ideas",
+         "img":"http://ghk.h-cdn.co/assets/15/41/480x481/gallery-1444166210-screen-shot-2015-10-06-at-51627-pm.png",
          "url":"https://tentkls.github.io/newyear/diydecor/p2.json"
       },
       {  
-         "title":"Gallery 3",
-         "img":"",
+         "title":"Tutorials",
+         "img":"http://ghk.h-cdn.co/assets/15/41/480x576/gallery-1444165699-christmas-ornament-tree-on-chevron-stripe-pallet.jpg",
          "url":"https://tentkls.github.io/newyear/diydecor/p3.json"
       }, 
       {  
-         "title":"Gallery 4",
-         "img":"",
+         "title":"Guidelines",
+         "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/55005ae44ad10-christmas-ball-craft-1209-s3.jpg",
          "url":"https://tentkls.github.io/newyear/diydecor/p4.json"
       }, 
       {  
-         "title":"Gallery 5",
-         "img":"",
+         "title":"Tutorials",
+         "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/55005ae48c3ef-mitten-christmas-craft-1209-s3.jpg",
          "url":"https://tentkls.github.io/newyear/diydecor/p5.json"
       }, 
       {  
-         "title":"Gallery 6",
-         "img":"",
+         "title":"Guidelines",
+         "img":"http://ghk.h-cdn.co/assets/15/49/480x616/gallery-1449265221-holiday-fireplace-1.jpg",
          "url":"https://tentkls.github.io/newyear/diydecor/p6.json"
       }
    ]
