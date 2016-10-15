@@ -1,21 +1,49 @@
 {  
-   "img":"",
+   "img":"http://www.stylemotivation.com/wp-content/uploads/2014/01/15-Colorful-DIY-Home-Decor-projects-1.jpg",
    "title":"",
-   "type":"image",
+   "type":"content",
    "list":[  
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         "",
-         ""
+      
+      {  
+         "type":"text",
+         "text":"The upholstery tack isn't just for sofas anymore. This fabric finisher is back in fashion — and makes an inexpensive way to add pizzazz to plain pieces of wood furniture. Buy tacks from a hardware or fabric store for about $10 a pack (we used two packs in two sizes); push or tap them in along the lines of a table, bench or chair for an eye-catching accent."
+      },
+      {  
+         "type":"image",
+         "url":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/5500123f3b924-table-upholstery-tack-0909-s3.jpg"
+      },
+      {  
+         "type":"text",
+         "text":"Want to teach wee ones that every penny counts? Make a coin bank — for free. Rinse an empty cleaning-wipe container; remove the label. Download and print a new label. Cut to fit; affix with tape. Change can be dropped right in through the top hole."
+      },
+      {  
+         "type":"image",
+         "url":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/5500123e8457b-kids-coin-jar-0909-s30.jpg"
+      },
+      {  
+         "type":"text",
+         "text":"Give lingerie a hamper that befits its beauty — and separates delicates from the rest of the laundry. Gather a pretty patterned pillowcase, an embroidery hoop (we used a 12-inch ring), and 10 inches of ribbon to hang. Clamp the case into the hoop, tie on a loop of ribbon to the hoop's clamp and hang near where you disrobe."
+      },
+      {  
+         "type":"image",
+         "url":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/5500123feaf9a-hanging-laundry-bag-s3.jpg"
+      },
+      {  
+         "type":"text",
+         "text":"For your next dinner party, try this trick to mark guests' seats: Spear place cards onto wooden skewers atop lemon slices, then park them in glasses as you set the table. Simply snip card stock into two-inch squares, write names, slice lemon and assemble on skewers. Hint: Remind guests to remove them before drinking."
+      },
+      {  
+         "type":"image",
+         "url":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/5500123f01966-drink-place-holders-0909-s3.jpg"
+      },
+      {  
+         "type":"text",
+         "text":"erk up your pencil cup with a bud vase that adds some life to your office space. Remove the ink cartridge from a dried up pen (most snap out easily). Fill with water, cap the pen at the bottom and pop in a thin-stemmed bloom."
+      },
+      {  
+         "type":"image",
+         "url":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/5500123e45f41-rose-pen-0909-s3.jpg"
+      }
+      
    ]
 }
