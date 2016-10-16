@@ -1,0 +1,27 @@
+{  
+   "img":"https://tentkls.github.io/minecraft/anime/bg.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Anime Girl",
+         "img":"http://lh3.googleusercontent.com/pZpB_DFbTZFAIEKXDQ4iEGwPXY5jfBoT56_jZJ5RktAvheJ9i29-kjHakUuOdnDheKJYJ4g_oW8AWnAeL8GmFyE",
+         "url":"https://tentkls.github.io/minecraft/anime/p1.json"
+      }, 
+      {  
+         "title":"Anime Boy",
+         "img":"http://lh3.googleusercontent.com/f0uUBDJ5APtu7rd8Y2X5k_rcjPm__EMUvcR0B165wCicfMVdNBnnAIVfiCFh4b48bTxGSpCmP8UtKhSsdoGb4Q",
+         "url":"https://tentkls.github.io/minecraft/anime/p2.json"
+      },
+      {  
+         "title":"Naruto",
+         "img":"http://lh3.googleusercontent.com/p3RE-DjjeEj8MD2cs5a7UksDGKB9i0CckHIjBRbEl-_-7nDTMBn_6AH3JMlKr7I15ioqHoPU881KPTwOudus",
+         "url":"https://tentkls.github.io/minecraft/anime/p3.json"
+      }, 
+      {  
+         "title":"Other",
+         "img":"http://lh3.googleusercontent.com/TcI9lLVSP6A78q4oSQ6HrJpRnfH-jXG5SzkPPVU6INT-qLnAc0mLE09_a3CADImmDgPglOVMVV_40m5NQ7UWXQ",
+         "url":"https://tentkls.github.io/minecraft/anime/p4.json"
+      }
+   ]
+}

@@ -1,27 +1,27 @@
 {  
-   "img":"https://i.ytimg.com/vi/mVyI-dzPawY/maxresdefault.jpg",
+   "img":"http://multoigri.ru/images/desc/igri-minecraft-01.jpg",
    "title":"",
    "type":"simple",
    "list":[  
       {  
          "title":"Girls",
          "img":"https://tentkls.github.io/minecraft/pvp/11.png",
-         "url":"https://tentkls.github.io/mineca/p1.json"
+         "url":"https://tentkls.github.io/minecraft/pvp/p1.json"
       }, 
       {  
          "title":"Boys",
          "img":"https://tentkls.github.io/minecraft/pvp/21.png",
-         "url":"https://tentkls.github.io//p2.json"
+         "url":"https://tentkls.github.io/minecraft/pvp/p2.json"
       },
       {  
          "title":"Animals",
          "img":"https://tentkls.github.io/minecraft/pvp/31.png",
-         "url":"https://tentkls.github.io//p3.json"
+         "url":"https://tentkls.github.io/minecraft/pvp/p3.json"
       }, 
       {  
          "title":"Other",
          "img":"https://tentkls.github.io/minecraft/pvp/41.png",
-         "url":"https://tentkls.github.io//p4.json"
+         "url":"https://tentkls.github.io/minecraft/pvp/p4.json"
       }
    ]
 }
