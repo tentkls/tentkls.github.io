@@ -1,27 +1,27 @@
 {  
-   "img":"",
+   "img":"https://i.ytimg.com/vi/mVyI-dzPawY/maxresdefault.jpg",
    "title":"",
    "type":"simple",
    "list":[  
       {  
          "title":"Girls",
-         "img":"",
-         "url":"https://tentkls.github.io/minecraft/pvp/p1.json"
+         "img":"https://tentkls.github.io/minecraft/pvp/11.png",
+         "url":"https://tentkls.github.io/mineca/p1.json"
       }, 
       {  
          "title":"Boys",
-         "img":"",
-         "url":"https://tentkls.github.io/minecraft/pvp/p2.json"
+         "img":"https://tentkls.github.io/minecraft/pvp/21.png",
+         "url":"https://tentkls.github.io//p2.json"
       },
       {  
          "title":"Animals",
-         "img":"",
-         "url":"https://tentkls.github.io/minecraft/pvp/p3.json"
+         "img":"https://tentkls.github.io/minecraft/pvp/31.png",
+         "url":"https://tentkls.github.io//p3.json"
       }, 
       {  
          "title":"Other",
-         "img":"",
-         "url":"https://tentkls.github.io/minecraft/pvp/p4.json"
+         "img":"https://tentkls.github.io/minecraft/pvp/41.png",
+         "url":"https://tentkls.github.io//p4.json"
       }
    ]
 }
