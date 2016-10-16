@@ -4,34 +4,34 @@
    "type":"skin",
    "list":[  
       {  
-         "title":"",
-         "img":"",
-          "url":""
+         "title":"Bob",
+         "img":"https://tentkls.github.io/minecraft/pvp/21.png",
+          "url":"https://tentkls.github.io/minecraft/pvp/210.png"
       },
       {  
-         "title":"",
-         "img":"",
-          "url":""
+         "title":"Dilan",
+         "img":"https://tentkls.github.io/minecraft/pvp/22.png",
+          "url":"https://tentkls.github.io/minecraft/pvp/220.png"
       },
       {  
-         "title":"",
-         "img":"",
-          "url":""
+         "title":"Peter",
+         "img":"https://tentkls.github.io/minecraft/pvp/23.png",
+          "url":"https://tentkls.github.io/minecraft/pvp/230.png"
       },
       {  
-         "title":"",
-         "img":"",
-          "url":""
+         "title":"Mike",
+         "img":"https://tentkls.github.io/minecraft/pvp/24.png",
+          "url":"https://tentkls.github.io/minecraft/pvp/240.png"
       },
       {  
-         "title":"",
-         "img":"",
-          "url":""
+         "title":"Denis",
+         "img":"https://tentkls.github.io/minecraft/pvp/25.png",
+          "url":"https://tentkls.github.io/minecraft/pvp/250.png"
       },
       {  
-         "title":"",
-         "img":"",
-          "url":""
+         "title":"Jake",
+         "img":"https://tentkls.github.io/minecraft/pvp/26.png",
+          "url":"https://tentkls.github.io/minecraft/pvp/260.png"
       }
    ]
 }
