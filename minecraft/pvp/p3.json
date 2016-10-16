@@ -1,0 +1,37 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"skin",
+   "list":[  
+      {  
+         "title":"Pink puppy",
+         "img":"",
+          "url":""
+      },
+      {  
+         "title":"Furry animal",
+         "img":"",
+          "url":""
+      },
+      {  
+         "title":"HaloweenBearSkin",
+         "img":"",
+          "url":""
+      },
+      {  
+         "title":"Halloween Giraffe",
+         "img":"",
+          "url":""
+      },
+      {  
+         "title":"SuperSloth",
+         "img":"",
+          "url":""
+      },
+      {  
+         "title":"Powerful Tiger",
+         "img":"",
+          "url":""
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Girls",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/pvp/p1.json"
+      }, 
+      {  
+         "title":"Boys",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/pvp/p2.json"
+      },
+      {  
+         "title":"Animals",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/pvp/p3.json"
+      }, 
+      {  
+         "title":"Other",
+         "img":"",
+         "url":"https://tentkls.github.io/minecraft/pvp/p4.json"
+      }
+   ]
+}
