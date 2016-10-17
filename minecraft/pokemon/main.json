@@ -1,0 +1,27 @@
+{  
+   "img":"https://i.redd.it/j77orbxow1sx.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Heroes",
+         "img":"http://lh3.googleusercontent.com/aK1b9peVuE2TISw5waxPhwp7XBzDl0Oy5B6VQeQLVC1H5OdO0hym64SOzThsdMsdcST2yU6dRoDWHOIAzrIQ",
+         "url":"https://tentkls.github.io/minecraft/pokemon/p1.json"
+      }, 
+      {  
+         "title":"Pokemons",
+         "img":"http://lh3.googleusercontent.com/HFcn-qjUB-Pul0JglhmJiFcUdTIs7cwgUmXhMeUrtX2HlP85J1AhdY_eLnPVpk3Hy_rqeF2R6PVIcrf22xZN4g",
+         "url":"https://tentkls.github.io/minecraft/pokemon/p2.json"
+      },
+      {  
+         "title":"Team Rocket",
+         "img":"http://lh3.googleusercontent.com/1opt_XdZASzXEKtgHoFQO5uGYCf_cOqs0bgqU8XgZ8IudOZeRqwQJjS6U6HBrlqCc1WRucsMpwwJec_UC49Vvg",
+         "url":"https://tentkls.github.io/minecraft/pokemon/p3.json"
+      }, 
+      {  
+         "title":"Other",
+         "img":"http://lh3.googleusercontent.com/AREgl-a4MH8ga3Qq_sNB2iHCrnU3Cl8ODrFlyaRUQbYQTeF23U4pYVagHkRXO20-ip2Pt3o_hVRgOa31BdrC",
+         "url":"https://tentkls.github.io/minecraft/pokemon/p4.json"
+      }
+   ]
+}
