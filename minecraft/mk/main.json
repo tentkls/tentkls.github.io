@@ -1,0 +1,27 @@
+{  
+   "img":"https://i.redd.it/j2w3silraasx.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Humanity",
+         "img":"http://lh3.googleusercontent.com/g33yB_L3OcF4AbJpnRdFdPJdrAJ537eBtc877c9_i21gzgoEzizCEnz2qkWBt7x217lKhTcPpePwL-d8wEraFw",
+         "url":"https://tentkls.github.io/minecraft/mk/p1.json"
+      }, 
+      {  
+         "title":"Cyborgs",
+         "img":"http://lh3.googleusercontent.com/QA2eExT6daG45t4vfV5QvOfPQRpN5Izc8qPLghGym3fE_02s1KnJVfMLx172SF7TzukOQVHR8-LznO_LUko7DuI",
+         "url":"https://tentkls.github.io/minecraft/mk/p2.json"
+      },
+      {  
+         "title":"Entity",
+         "img":"http://lh3.googleusercontent.com/2ImwvRVWATJlDg0w2hu9h2GuP8PqInkrgh0tGmNmS1GWHLF4KDsiGifhzyUETwW7C4IFeiDAUBXjhRQ5Ft0q",
+         "url":"https://tentkls.github.io/minecraft/mk/p3.json"
+      }, 
+      {  
+         "title":"Gods",
+         "img":"http://lh3.googleusercontent.com/y8CEU-MK3lT9OEVpooTmWd4gGwopJbbVbSjBXWWfrBaZi4VGovbG0tuLnu-iEqiv86m7_9jmkUGTJlSIpFI8Fs8",
+         "url":"https://tentkls.github.io/minecraft/mk/p4.json"
+      }
+   ]
+}
