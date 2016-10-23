@@ -1,0 +1,37 @@
+{  
+   "img":"http://savepic.ru/11921990.jpg",
+   "title":"Pokemon",
+   "type":"skin",
+   "list":[  
+      {  
+         "title":"Pokemon",
+         "img":"http://savepic.ru/11864645.png",
+          "url":"http://savepic.ru/11864645.png"
+      },
+      {  
+         "title":"Bulbasaur",
+         "img":"http://savepic.ru/11910724.png",
+          "url":"http://savepic.ru/11910724.png"
+      },
+      {  
+         "title":"Persian",
+         "img":"http://savepic.ru/11893316.png",
+          "url":"http://savepic.ru/11893316.png"
+      },
+      {  
+         "title":"Charmander",
+         "img":"http://savepic.ru/11911751.png",
+          "url":"http://savepic.ru/11911751.png"
+      },
+      {  
+         "title":"Squirtle",
+         "img":"http://savepic.ru/11896391.png",
+          "url":"http://savepic.ru/11896391.png"
+      },
+      {  
+         "title":"Go!",
+         "img":"http://savepic.ru/11889223.png",
+          "url":"http://savepic.ru/11889223.png"
+      }
+   ]
+}
