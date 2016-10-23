@@ -1,0 +1,42 @@
+{  
+   "img":"https://i.redd.it/b9qbupuucvsx.jpg",
+   "title":"Power Rangers",
+   "type":"skin",
+   "list":[  
+      {  
+         "title":"Red Ranger",
+         "img":"http://lh3.googleusercontent.com/Pa76qPeFVhNh4n6-3z3vG12HXCJ9eBXp2Z-fjDiA3UO4K-1_f7zIeJxezTdkBDu3H7aXm5lCeOFNl50KibVg",
+          "url":"http://lh3.googleusercontent.com/UFp2ZTLdu1kX6M0l1rEgrLZW3Pp1Woz4_uqX-uH4LXa0qQWjUQjDtEr8_RQj4ZVByLV_pGK8mYH6PXs3hQX0"
+      },
+      {  
+         "title":"Blue Ranger",
+         "img":"http://lh3.googleusercontent.com/r5fWZYDUC9voP6Drcbkrx0GjyJUEi-juiAsZuvE9-PT_A5ik2ggtJVJni8nkpOYDRMtHpvSdjs5UyruwhMnf",
+          "url":"http://lh3.googleusercontent.com/ZujApL2MdqmtXTjBzmuX1zBaI_DVTQaMMDHio8UaOJ21GKKgEipEPGGEaW8hIfOeh1nBA-Kwb218-r2-83sAAqs"
+      },
+      {  
+         "title":"Yellow Ranger",
+         "img":"http://lh3.googleusercontent.com/3ppJx9c6pzAE8UhfpKgJaeIsqGXgQVCMmX0GYK6oXQgTomK9N3WnMNAJdxnA76EZkR09RhzQRK_kCVACJwQ7kCU",
+          "url":"http://lh3.googleusercontent.com/tSaPvnn9TbmWoqUDYVbepo4iPlfUHfBLbAxg3VkupKiXRHQmwZoRrMewMwtrK2Q8O46FInYwiCjctS3gSHguHVE"
+      },
+      {  
+         "title":"Green Ranger",
+         "img":"http://lh3.googleusercontent.com/8rOd7cqqhBnuoKmmBBVCjdoU_fFy9wVW96tibownYvFPw61qIhGVZTL0KiFEBbxdozYXDbBnBVl54loYsnWg",
+          "url":"http://lh3.googleusercontent.com/x-heZ5Kwf1goNovQrsiYVxoTzU2hHndgAucEYqDWfN1RHkMRYDRLvmFGaF2nHIyYYyPRW9_ecXgoD4VGwydqMA"
+      },
+      {  
+         "title":"Pink Ranger",
+         "img":"http://lh3.googleusercontent.com/D9ogY3wsK1nbdpu6y5SVeDlpSYaYg6_5VgpDVVUYkxgBRlb9uMgG6n_Wc5CyntaKBe-iLGjSs569PR3zLeG9",
+          "url":"http://lh3.googleusercontent.com/LNv3a8u0mDJQzW_OhwBnu0zua8K6oc6O0mN1d8SPAbdk_1adMN4d_8nt_nUZsyfinPDSmk39VN1TGMlZNnbo6Q"
+      },
+      {  
+         "title":"Black Ranger",
+         "img":"http://lh3.googleusercontent.com/RsAsEvanAkW4lLyVSQj7ihuH3cdvz2EPUyAB-SmEeTTl0dw6PZ3MyO8OV6K_wu1rCcO6K8fZB6MIIkE8KdmF",
+          "url":"http://lh3.googleusercontent.com/LAiG3178wK32E_VkQEJfnNas9YUP0LlBU_M28twH9s7sFmUPbSZ3CKG5vUgCKCpbuYKBshNHaBSXEqaA2ipP5zQ"
+      },
+      {  
+         "title":"White Ranger",
+         "img":"http://lh3.googleusercontent.com/BVOvQA8RUKUNEER7NA6ytcNULeyHUoGoEG7_QHNtxXfYRPLPz7P4AOatMdNSS9keVAvrlWrO3pMQLoC0acGq9g",
+          "url":"http://lh3.googleusercontent.com/RUuMir_JuF8L8YbG9E5mcfK2KiYuM6RPow4EMIl2jUsqeejMJYdlvF-T98HSjvrngVI5AKYG48nc2IoXYxhU"
+      }
+   ]
+}
