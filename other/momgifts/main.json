@@ -5,22 +5,22 @@
    "list":[  
       {  
          "title":"Gallery 1",
-         "img":"",
+         "img":"http://ghk.h-cdn.co/assets/16/42/480x720/gallery-1476822962-macys-hotel-sheets.jpg",
          "url":"https://tentkls.github.io/other/momgifts/p1.json"
       }, 
       {  
          "title":"Gallery 2",
-         "img":"",
+         "img":"http://ghk.h-cdn.co/assets/16/34/480x719/gallery-1472156514-amazon-fire-tv.jpg",
          "url":"https://tentkls.github.io/other/momgifts/p2.json"
       },
       {  
          "title":"Gallery 3",
-         "img":"",
+         "img":"http://ghk.h-cdn.co/assets/15/48/480x480/gallery-1448395537-5504-1.jpg",
          "url":"https://tentkls.github.io/other/momgifts/p3.json"
       }, 
       {  
          "title":"Gallery 4",
-         "img":"",
+         "img":"http://ghk.h-cdn.co/assets/16/34/480x720/gallery-1472155035-stephanie-johnson-makeup-pouch.jpg",
          "url":"https://tentkls.github.io/other/momgifts/p4.json"
       }
    ]
