@@ -1,0 +1,27 @@
+{  
+   "img":"http://ghk.h-cdn.co/assets/15/36/1441225870-screen-shot-2015-09-02-at-43051-pm.png",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x720/54ff94bbe6ef2-ghk-1212-hats-ho-ho-ho-ornaments-s2.jpg",
+         "url":"https://tentkls.github.io/newyear/tree/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"",
+         "url":"https://tentkls.github.io/newyear/tree/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x720/54ff94b9ae82a-ghk-1212-jeweled-ornaments-s2.jpg",
+         "url":"https://tentkls.github.io/newyear/tree/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://ghk.h-cdn.co/assets/15/36/480x656/gallery-1441227687-screen-shot-2015-09-02-at-50110-pm.png",
+         "url":"https://tentkls.github.io/newyear/tree/p4.json"
+      }
+   ]
+}
