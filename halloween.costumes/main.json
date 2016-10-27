@@ -8,15 +8,33 @@
          "img":"http://emmastrend.com/wp-content/uploads/2015/09/Awesome-Halloween-Makeup-14.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/p1.json"
       }, 
+      {
+         "title":"DIY Gifts",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.gifts",
+         "img":"https://lh3.googleusercontent.com/pV7RYHxvbnCxvZLH0XJK8jdcbSOWUEbrID1XwqVGQY_Rytt2FC8g1EzADvIL1d11hw=w300-rw"
+      },    
       {  
          "title":"Gallery 2",
          "img":"https://s-media-cache-ak0.pinimg.com/564x/82/e5/f8/82e5f8f1fc25105ac57586f4fd201b38.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/p2.json"
       },
+      {
+         "title":"Fashion Accessories",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
+      },
       {  
          "title":"Gallery 3",
          "img":"http://3.bp.blogspot.com/-tCXRAU0iXTU/Vi-mQVOt81I/AAAAAAAAjMk/a4Gmz7z0sOI/s1600/red%2Bblack.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/p3.json"
+      }, 
+      {
+         "title":"Christmas Decorating",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.nydiydecor",
+         "img":"https://lh3.googleusercontent.com/-fzJ0mZCx05O_gM-ztoBS3ydGE0WjbJtjvyhqdQJ3qYTLcfiNPMG66h22EWLh4W2ZB0=w300-rw"
       }, 
       {  
          "title":"Gallery 4",
