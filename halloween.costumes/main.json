@@ -5,7 +5,7 @@
    "list":[  
       {  
          "title":"Gallery 1",
-         "img":"http://emmastrend.com/wp-content/uploads/2015/09/Awesome-Halloween-Makeup-14.jpg",
+         "img":"http://www.topdesignmag.com/wp-content/uploads/2014/10/205.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/p1.json"
       }, 
       {
@@ -41,11 +41,23 @@
          "img":"https://wereallmadinhere.files.wordpress.com/2012/10/tumblr_malcx6ubtj1qffuefo1_500.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/p4.json"
       }, 
+      {
+         "title":"Gifts for Mom",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.momgifts",
+         "img":"https://lh3.googleusercontent.com/g6l3IA6B_5_mk677wEVZBF4c9OcV2B7znCNfvx9xvNWUAdXXcL8b0KVYZA4Cl6Ru4to7=w300-rw"
+      },  
       {  
          "title":"Gallery 5",
          "img":"https://s-media-cache-ak0.pinimg.com/564x/7a/6d/af/7a6daf41eb8859eeeeb3adc2c5b0f5b3.jpg",
          "url":"https://tentkls.github.io/halloween.costumes/p5.json"
       }, 
+      {
+         "title":"DIY Home Decor",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.diyhome",
+         "img":"https://lh3.googleusercontent.com/cVlRQ6H57JXaucS1ugpjtklChp2MqKgK5QkQywTQX85O3GKV6lHRpG0icxRofEE_RS8=w300-rw"
+      },  
       {  
          "title":"Gallery 6",
          "img":"https://www.mymakeupbook.com/wp-content/uploads/2014/10/Cartina-Makeup-750x375.jpg",
