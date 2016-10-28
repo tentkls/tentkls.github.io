@@ -1,37 +1,37 @@
 {  
    "img":"https://minecraft.net/static/pages/img/minecraft-hero.df1112867f04.jpg",
    "title":"",
-   "type":"simple",
+   "type":"skin",
    "list":[  
       {  
          "title":"Skin 1",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_frost.png",
-         "url":"https://tentkls.github.io/minecraft/skin1/3/p1.json"
+         "url":"https://tentkls.github.io/minecraft/skin1/3/1.png"
       }, 
       {  
          "title":"Skin 2",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_maxomops.png",
-         "url":"https://tentkls.github.io/minecraft/skin1/3/p2.json"
+         "url":"https://tentkls.github.io/minecraft/skin1/3/2.png"
       },
       {  
          "title":"Skin 3",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_rahim_1.png",
-         "url":"https://tentkls.github.io/minecraft/skin1/3/p3.json"
+         "url":"https://tentkls.github.io/minecraft/skin1/3/3.png"
       }, 
       {  
          "title":"Skin 4",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_rahim.png",
-         "url":"https://tentkls.github.io/minecraft/skin1/3/p4.json"
+         "url":"https://tentkls.github.io/minecraft/skin1/3/4.png"
       }, 
       {  
          "title":"Skin 5",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_redgar1.png",
-         "url":"https://tentkls.github.io/minecraft/skin1/3/p5.json"
+         "url":"https://tentkls.github.io/minecraft/skin1/3/5.png"
       }, 
       {  
          "title":"Skin 6",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_krutoy.png",
-         "url":"https://tentkls.github.io/minecraft/skin1/3/p6.json"
+         "url":"https://tentkls.github.io/minecraft/skin1/3/6.png"
       }
    ]
 }
