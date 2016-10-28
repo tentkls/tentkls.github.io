@@ -8,15 +8,33 @@
          "img":"https://tentkls.github.io/minecraft/pvp/11.png",
          "url":"https://tentkls.github.io/minecraft/pvp/p1.json"
       }, 
+       {
+         "title":"DIY Gifts",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.gifts",
+         "img":"https://lh3.googleusercontent.com/pV7RYHxvbnCxvZLH0XJK8jdcbSOWUEbrID1XwqVGQY_Rytt2FC8g1EzADvIL1d11hw=w300-rw"
+      },  
       {  
          "title":"Boys",
          "img":"https://tentkls.github.io/minecraft/pvp/21.png",
          "url":"https://tentkls.github.io/minecraft/pvp/p2.json"
       },
-      {  
+      {
+         "title":"PvP Skins",
+         "description":"PvP Skins for Minecraft Free\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.minecraftskins1",
+         "img":"https://lh3.googleusercontent.com/l1_VkOgJrChlGVHSG02TGBUKiXmoYS0GXeAJlapNzLGDLPJwqZ_1DQwSMw7b8JzU7uDi=w300-rw"
+      }, 
+      {   
          "title":"Animals",
          "img":"https://tentkls.github.io/minecraft/pvp/31.png",
          "url":"https://tentkls.github.io/minecraft/pvp/p3.json"
+      }, 
+      {
+         "title":"Gifts for Mom",
+         "description":"Gifts for the Best Mom Ever\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.momgifts",
+         "img":"https://lh3.googleusercontent.com/g6l3IA6B_5_mk677wEVZBF4c9OcV2B7znCNfvx9xvNWUAdXXcL8b0KVYZA4Cl6Ru4to7=w300-rw"
       }, 
       {  
          "title":"Other",
