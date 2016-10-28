@@ -1,13 +1,19 @@
 {  
    "img":"https://minecraft.net/static/pages/img/minecraft-hero.df1112867f04.jpg",
    "title":"",
-   "type":"skin",
+   "type":"simple",
    "list":[  
       {  
          "title":"Gallery 1",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_enotbro.png",
          "url":"https://tentkls.github.io/minecraft/skin1/1/main.json"
       }, 
+       {
+         "title":"DIY Gifts",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.gifts",
+         "img":"https://lh3.googleusercontent.com/pV7RYHxvbnCxvZLH0XJK8jdcbSOWUEbrID1XwqVGQY_Rytt2FC8g1EzADvIL1d11hw=w300-rw"
+      },  
       {  
          "title":"Gallery 2",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_vika333333333333444444.png",
@@ -18,6 +24,12 @@
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_frost.png",
          "url":"https://tentkls.github.io/minecraft/skin1/3/main.json"
       }, 
+       {
+         "title":"Gifts for Mom",
+         "description":"Gifts for the Best Mom Ever\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.momgifts",
+         "img":"https://lh3.googleusercontent.com/g6l3IA6B_5_mk677wEVZBF4c9OcV2B7znCNfvx9xvNWUAdXXcL8b0KVYZA4Cl6Ru4to7=w300-rw"
+      }, 
       {  
          "title":"Gallery 4",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_super_pro12.png",
@@ -27,6 +39,12 @@
          "title":"Gallery 5",
          "img":"http://minecraft-inside.ru/uploads/files/2016-10/preview_office-boy.png",
          "url":"https://tentkls.github.io/minecraft/skin1/5/main.json"
+      }, 
+      {
+         "title":"Christmas",
+         "description":"Christmas Decor\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.nydiydecor",
+         "img":"https://lh3.googleusercontent.com/-fzJ0mZCx05O_gM-ztoBS3ydGE0WjbJtjvyhqdQJ3qYTLcfiNPMG66h22EWLh4W2ZB0=w300-rw"
       }, 
       {  
          "title":"Gallery 6",
