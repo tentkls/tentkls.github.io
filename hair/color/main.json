@@ -1,0 +1,56 @@
+{  
+   "img":"http://ghk.h-cdn.co/assets/15/50/980x490/landscape-1449872398-hair-color-trends-2016.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"https://i.ytimg.com/vi/YaG3Ev5VYRM/maxresdefault.jpg",
+         "url":"https://tentkls.github.io/hair/color/p1.json"
+      }, 
+      {
+         "title":"DIY Gifts",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.gifts",
+         "img":"https://lh3.googleusercontent.com/pV7RYHxvbnCxvZLH0XJK8jdcbSOWUEbrID1XwqVGQY_Rytt2FC8g1EzADvIL1d11hw=w300-rw"
+      },  
+      {  
+         "title":"Gallery 2",
+         "img":"http://ghk.h-cdn.co/assets/16/41/1476212506-rose-gold-ombre.jpg",
+         "url":"https://tentkls.github.io/hair/color/p2.json"
+      },
+      {
+         "title":"Accessories",
+         "description":"Fashion Accessories\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://ghk.h-cdn.co/assets/16/39/480x719/carina-after-2_2.jpg",
+         "url":"https://tentkls.github.io/hair/color/p3.json"
+      }, 
+       {
+         "title":"Christmas",
+         "description":"Christmas Decor\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.nydiydecor",
+         "img":"https://lh3.googleusercontent.com/-fzJ0mZCx05O_gM-ztoBS3ydGE0WjbJtjvyhqdQJ3qYTLcfiNPMG66h22EWLh4W2ZB0=w300-rw"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://ghk.h-cdn.co/assets/15/50/480x690/sienna-miller-peach-hair-color.jpg",
+         "url":"https://tentkls.github.io/hair/color/p4.json"
+      }, 
+      {
+         "title":"DIY Decor",
+         "description":"DIY Home Decor\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.diyhome",
+         "img":"https://lh3.googleusercontent.com/cVlRQ6H57JXaucS1ugpjtklChp2MqKgK5QkQywTQX85O3GKV6lHRpG0icxRofEE_RS8=w300-rw"
+      },  
+      {  
+         "title":"Gallery 5",
+         "img":"http://ghk.h-cdn.co/assets/15/50/480x600/gallery-1449870531-rihanna-burgundy-hair.jpg",
+         "url":"https://tentkls.github.io/hair/color/p5.json"
+      }
+   ]
+}
