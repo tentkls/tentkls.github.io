@@ -7,22 +7,42 @@
          "title":"Nordic Noël",
          "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x552/54fefcfd9946d-1211-christmas-tree-with-red-and-white-trimmings-xl.jpg",
          "url":"https://tentkls.github.io/newyear/party/p1.json"
-      }, 
+      }, {
+         "title":"DIY Gifts",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.gifts",
+         "img":"https://lh3.googleusercontent.com/pV7RYHxvbnCxvZLH0XJK8jdcbSOWUEbrID1XwqVGQY_Rytt2FC8g1EzADvIL1d11hw=w300-rw"
+      },  
       {  
          "title":"Peppermint Stripes",
          "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x576/550021c73f31d-decorated-christmas-tree-in-living-room-1210-s3.jpg",
          "url":"https://tentkls.github.io/newyear/party/p2.json"
-      },
+      }, {
+         "title":"Christmas",
+         "description":"Christmas Decor\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.nydiydecor",
+         "img":"https://lh3.googleusercontent.com/-fzJ0mZCx05O_gM-ztoBS3ydGE0WjbJtjvyhqdQJ3qYTLcfiNPMG66h22EWLh4W2ZB0=w300-rw"
+      }, 
       {  
          "title":"White Christmas",
          "img":"http://ghk.h-cdn.co/assets/cm/15/11/980x700/54ff94b7e0a2b-ghk-1212-christmas-tree-white-decorations-s2.jpg",
          "url":"https://tentkls.github.io/newyear/party/p3.json"
-      }, 
+      },  {
+         "title":"Accessories",
+         "description":"Fashion Accessories\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
+      },
       {  
          "title":"We Three Kings",
          "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x635/54ff94b9595db-ghk-1212-christmas-tree-gold-decorations-s2.jpg",
          "url":"https://tentkls.github.io/newyear/party/p4.json"
-      }, 
+      },   {
+         "title":"DIY Decor",
+         "description":"DIY Home Decor\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.diyhome",
+         "img":"https://lh3.googleusercontent.com/cVlRQ6H57JXaucS1ugpjtklChp2MqKgK5QkQywTQX85O3GKV6lHRpG0icxRofEE_RS8=w300-rw"
+      },  
       {  
          "title":"Santa Claus Is Coming to Town",
          "img":"http://ghk.h-cdn.co/assets/cm/15/11/480x595/54ff94bb38464-ghk-1212-christmas-tree-red-decorations-s2.jpg",
