@@ -1,0 +1,27 @@
+{  
+   "img":"http://savepic.ru/12076310.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Anime",
+         "img":"http://lh3.googleusercontent.com/sFDGE4JDSvEHMVbJDtjkTKwT_NEeP6qQKWrXeP_WBwsP1gXEw_9GP-CCqRvU9JTS6YkZaBj6PTaRZcEtE3_z",
+         "url":"https://tentkls.github.io/minecraft/girls/p1.json"
+      }, 
+      {  
+         "title":"Baby",
+         "img":"http://lh3.googleusercontent.com/jUqvL48zTJvawdfGGO-tAa1kFw-4_1STC9V0bA_86aRRuobTgamiG8M_O7IveF28lsMwyQsk1vw-meNwD2tK",
+         "url":"https://tentkls.github.io/minecraft/girls/p2.json"
+      },
+      {  
+         "title":"Bikini",
+         "img":"http://lh3.googleusercontent.com/GrQVWHPSvVqTUeGK5UeZjWtOQfaxo4fuPWQ0Tlx73MBWWAIzc4bd63wGiOCyBt_6SXZ8Dul4V-jS6uTUEplzpA",
+         "url":"https://tentkls.github.io/minecraft/girls/p3.json"
+      }, 
+      {  
+         "title":"Other",
+         "img":"http://lh3.googleusercontent.com/PcUy_RXRWnJaXS0Q66Ma322d2IhdprMERRE43xKwTBRE8wRZpx7lAdeLHy6S-sgBHrrlUNDNOKmYqYiVWI0J0Cc",
+         "url":"https://tentkls.github.io/minecraft/girls/p4.json"
+      }
+   ]
+}
