@@ -1,0 +1,40 @@
+{  
+   "img":"http://savepic.ru/12124413.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Boys",
+         "img":"http://lh3.googleusercontent.com/jqpUlMVmePLvFCucS6eFuZi5QP__N102IGpvsQzgbk83IJsChfRzpCuojXeVkm8fe5f1fknc7yCg-IPfTWR16o0",
+         "url":"https://tentkls.github.io/minecraft/teen/p1.json"
+      },
+       {
+         "title":"Pony Skins",
+         "description":"Pony Skins for Minecraft\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.pony",
+         "img":"https://lh3.googleusercontent.com/LcLYuviTFD2P64_LYVEYkSGA3AwX5pfdGldeWMoRsXtJd66nx4toZuL6yZP1ovOlIqym=w300-rw"
+      }, 
+      {  
+         "title":"Girls",
+         "img":"http://lh3.googleusercontent.com/GNGTI_5k4gaDM2jv-1McTgKFJ9b6pmPUgL6v_I0OzGnsKzB0VVMuyfjbXYxZMfGcYFoFnY-GqSvFH71a2yXdr0E",
+         "url":"https://tentkls.github.io/minecraft/teen/p2.json"
+      },
+       {
+         "title":"Girl Skins",
+         "description":"Girl Skins for Minecraft\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.girls",
+         "img":"https://lh3.googleusercontent.com/iEojXOKvhQk5QJ4fW-9lJRiYGyabI3d2FawILcqwIV6iMdHKNaO4gn0izyJKIG2oIw=w300-rw"
+      }, 
+      {  
+         "title":"Other",
+         "img":"http://lh3.googleusercontent.com/LPGIYavmWDZJ1UmZ384JDi2R_V8pO73ddn2D_Jg4geic8JDVm74evlkat9lOip1Z1Rj3aSPzxNX9V8_5PMkonw",
+         "url":"https://tentkls.github.io/minecraft/teen/p3.json"
+      }, 
+       {
+         "title":"PvP SKINS",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.minepvp",
+         "img":"https://lh3.googleusercontent.com/tfE_If3GPwBRgWdc3PmaIX5fGbtErEB_hQPQYGKFNCoHv-TDRlBysoc0qJL0xw1Ab4U=w300-rw"
+      }
+   ]
+}
