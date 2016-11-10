@@ -1,0 +1,22 @@
+{  
+   "img":"http://savepic.ru/12152061.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://lh3.googleusercontent.com/EryYAcxABul-46kzzOZRmb7kLQWcpaS2Uy1vG_jCvCWT9qvaj3ImYpA8UXECMLelX7AJAcuXVlPcV0U0Zljt9w",
+         "url":"https://tentkls.github.io/minecraft/herobrin/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://lh3.googleusercontent.com/EryYAcxABul-46kzzOZRmb7kLQWcpaS2Uy1vG_jCvCWT9qvaj3ImYpA8UXECMLelX7AJAcuXVlPcV0U0Zljt9w",
+         "url":"https://tentkls.github.io/minecraft/herobrin/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://lh3.googleusercontent.com/mELvZSiOOuuB5du5AS73_EYuk5hqL__kSRhikutmVWc73R036ED0IPUjVyFZpj6iPJYqPOU7r8CdnVYMXBt4",
+         "url":"https://tentkls.github.io/minecraft/herobrin/p3.json"
+      }
+   ]
+}
