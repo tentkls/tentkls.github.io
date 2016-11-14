@@ -1,0 +1,37 @@
+{  
+   "img":"http://savepic.ru/12246413.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://savepic.ru/12231053.jpg",
+         "url":"https://tentkls.github.io/newyear/new/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://savepic.ru/12126835.jpg",
+         "url":"https://tentkls.github.io/newyear/new/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://savepic.ru/12150388.jpg",
+         "url":"https://tentkls.github.io/newyear/new/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://savepic.ru/12236171.jpg",
+         "url":"https://tentkls.github.io/newyear/new/p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"http://savepic.ru/12166773.jpg",
+         "url":"https://tentkls.github.io/newyear/new/p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"http://savepic.ru/12198287.jpg",
+         "url":"https://tentkls.github.io/newyear/new/p6.json"
+      }
+   ]
+}
