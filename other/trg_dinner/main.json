@@ -1,0 +1,27 @@
+{  
+   "img":"http://clv.h-cdn.co/assets/16/37/980x550/gallery-1473969758-thanksgiving-sides-4-1115.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://clv.h-cdn.co/assets/16/37/480x720/gallery-1473966549-pomegranate-cornbread-stuffing-recipe-18.jpg",
+         "url":"https://tentkls.github.io/other/trg_dinner/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://clv.h-cdn.co/assets/16/37/1474038013-183315732-1.jpg",
+         "url":"https://tentkls.github.io/other/trg_dinner/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://clv.h-cdn.co/assets/16/37/480x720/gallery-1474038902-save-5.png",
+         "url":"https://tentkls.github.io/other/trg_dinner/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://clv.h-cdn.co/assets/16/37/980x550/gallery-1473969758-thanksgiving-sides-4-1115.jpg",
+         "url":"https://tentkls.github.io/other/trg_dinner/p4.json"
+      }
+   ]
+}
