@@ -1,0 +1,37 @@
+{  
+   "img":"http://2.bp.blogspot.com/-piR2sAgUXJk/UwdCQyf3dqI/AAAAAAAAGq0/_h5RStXKwYQ/s1600/Jimmy-Choo-UGG-Mandah-Boots-Design.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://3.bp.blogspot.com/-SJ21TsRiynY/Vin9szk7ebI/AAAAAAAABhc/8j-3fm7T83Y/s1600/ugg-jimmy-choo-boots-shoes-uggs-1112.jpg",
+         "url":"https://tentkls.github.io//p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/21/c4/a7/21c4a784663aecde413fae5c32b6dfbd.jpg",
+         "url":"https://tentkls.github.io//p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/d1/cd/d6/d1cdd6b6a53d93857c16a9e227ded8c5.jpg",
+         "url":"https://tentkls.github.io//p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"",
+         "url":"https://tentkls.github.io//p4.json"
+      }, 
+      {  
+         "title":"Gallery 5",
+         "img":"",
+         "url":"https://tentkls.github.io//p5.json"
+      }, 
+      {  
+         "title":"Gallery 6",
+         "img":"",
+         "url":"https://tentkls.github.io//p6.json"
+      }
+   ]
+}

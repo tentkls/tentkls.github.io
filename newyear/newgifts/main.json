@@ -1,0 +1,27 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://clv.h-cdn.co/assets/15/45/480x720/gallery-1446650265-diy-mint-sugar-scrub-final2.jpg",
+         "url":"https://tentkls.github.io/newyear/newgifts/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://clv.h-cdn.co/assets/16/41/480x720/gallery-1476235747-clx1212059a.jpg",
+         "url":"https://tentkls.github.io/newyear/newgifts/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://clv.h-cdn.co/assets/16/41/480x720/gallery-1476240520-clx0807sim750.jpg",
+         "url":"https://tentkls.github.io/newyear/newgifts/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://clv.h-cdn.co/assets/16/41/480x720/gallery-1476243199-clx1007sim03.jpg",
+         "url":"https://tentkls.github.io/newyear/newgifts/p4.json"
+      }
+   ]
+}
