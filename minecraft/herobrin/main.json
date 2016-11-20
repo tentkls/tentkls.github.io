@@ -8,15 +8,33 @@
          "img":"http://lh3.googleusercontent.com/EryYAcxABul-46kzzOZRmb7kLQWcpaS2Uy1vG_jCvCWT9qvaj3ImYpA8UXECMLelX7AJAcuXVlPcV0U0Zljt9w",
          "url":"https://tentkls.github.io/minecraft/herobrin/p1.json"
       }, 
+        {
+         "title":"Pony Skins",
+         "description":"Pony Skins for Minecraft\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.pony",
+         "img":"https://lh3.googleusercontent.com/LcLYuviTFD2P64_LYVEYkSGA3AwX5pfdGldeWMoRsXtJd66nx4toZuL6yZP1ovOlIqym=w300-rw"
+      }, 
       {  
          "title":"Gallery 2",
          "img":"http://lh3.googleusercontent.com/EryYAcxABul-46kzzOZRmb7kLQWcpaS2Uy1vG_jCvCWT9qvaj3ImYpA8UXECMLelX7AJAcuXVlPcV0U0Zljt9w",
          "url":"https://tentkls.github.io/minecraft/herobrin/p2.json"
       },
+       {
+         "title":"Girl Skins",
+         "description":"Girl Skins for Minecraft\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.girls",
+         "img":"https://lh3.googleusercontent.com/iEojXOKvhQk5QJ4fW-9lJRiYGyabI3d2FawILcqwIV6iMdHKNaO4gn0izyJKIG2oIw=w300-rw"
+      }, 
+
       {  
          "title":"Gallery 3",
          "img":"http://lh3.googleusercontent.com/mELvZSiOOuuB5du5AS73_EYuk5hqL__kSRhikutmVWc73R036ED0IPUjVyFZpj6iPJYqPOU7r8CdnVYMXBt4",
          "url":"https://tentkls.github.io/minecraft/herobrin/p3.json"
+      }, {
+         "title":"PvP SKINS",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.minepvp",
+         "img":"https://lh3.googleusercontent.com/tfE_If3GPwBRgWdc3PmaIX5fGbtErEB_hQPQYGKFNCoHv-TDRlBysoc0qJL0xw1Ab4U=w300-rw"
       }
    ]
 }
