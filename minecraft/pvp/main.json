@@ -51,10 +51,22 @@
          "img":"http://lh3.googleusercontent.com/eN4yoOWXeYMKha37e8cuBYkvZIweAwKdw6VHjHznKUmHUll_2ACgSL17T80Clr8aIFDQajhyRuOrV6n_maXylg",
          "url":"https://tentkls.github.io/minecraft/halloween/p1.json"
       } ,
+       {
+         "title":"Pony Skins",
+         "description":"Pony Skins for Minecraft\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.pony",
+         "img":"https://lh3.googleusercontent.com/LcLYuviTFD2P64_LYVEYkSGA3AwX5pfdGldeWMoRsXtJd66nx4toZuL6yZP1ovOlIqym=w300-rw"
+      }, 
       {  
          "title":"Baby Girl",
          "img":"http://lh3.googleusercontent.com/wrf8RpSepLuhoWnCNnwMd800DlmJX-gvdHG92eA2cPODX4X-ZlvKe3zzcE10Fi_7F9mgES0TeUujQ96DPxN0xg",
          "url":"https://tentkls.github.io/minecraft/child/p1.json"
+      }, 
+      {
+         "title":"TEEN SKINS",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.teen",
+         "img":"https://lh3.googleusercontent.com/AVClXiY7DOthw8GfGI0JpiolrTVtc7nwXKjtMAe-SYUrfLRtf0GdqmeFGliGh9kZjqiQ=w300-rw"
       }, 
       {  
          "title":"Baby boy",
@@ -66,6 +78,12 @@
          "img":"http://lh3.googleusercontent.com/YJ5ljnMo_iUPFoqONIbnNYQVj5HrRu9GZ0655wS7MTWzC6KMlTbt_T28AehHEhm5sIm1wtsBAYSkgzBsDBNEKg",
          "url":"https://tentkls.github.io/minecraft/military/p3.json"
       },
+        {
+         "title":"Herobrine ",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.herobrin",
+         "img":"https://lh3.googleusercontent.com/r1E4SQl9STR17dzYRXDp3ztwjjuRny0UP32dOmU1ERHSCIbYv_o7FzVlbVhmSZkHK0AG=w300-rw"
+      }, 
       {  
          "title":"Cyborgs",
          "img":"http://lh3.googleusercontent.com/QA2eExT6daG45t4vfV5QvOfPQRpN5Izc8qPLghGym3fE_02s1KnJVfMLx172SF7TzukOQVHR8-LznO_LUko7DuI",
