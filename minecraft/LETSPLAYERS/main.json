@@ -5,8 +5,8 @@
    "list":[  
       {  
          "title":"Gallery 1",
-         "img":"http://lh3.googleusercontent.com/NgMmRy-zr0ZtcrStfocSSX8UXY-a4uk-nfmXK2j7tG-ceAIJdS42YXdi_l3AbIc79S0wOHKFSVstNZiWHJ3H",
-         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p1.json"
+         "img":"http://lh3.googleusercontent.com/NVZzWxHnAqwdwMTB1DDCToigAoFWDtUg97Smfx9CozA9_5EbZYpiJpWhz9ATnzjrUIdRZZUYQ2uZQV6Iropprg",
+         "url":"https://tentkls.github.io/minecraft/LETSPLAYERS/p1.json"
       },
        {
          "title":"Pony Skins",
@@ -16,13 +16,19 @@
       }, 
       {  
          "title":"Gallery 2",
-         "img":"http://lh3.googleusercontent.com/SpetAOKc4FAYd4UZarxPayYJIpdMpEhdKhJRZBlLxGWlEXtiAAv8XO64TWsBHSUVhxbNWX_Q7iuFsfPqLBzlbg",
-         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p2.json"
+         "img":"http://lh3.googleusercontent.com/VywnXUZCxHulgtIF7iKqO9hHgQu-c5o49p7vFsCz9_fK3VFQyX_PrjqCpEKmgZGnAmg9R5UzklV9GRc1zdSxsPI",
+         "url":"https://tentkls.github.io/minecraft/LETSPLAYERS/p2.json"
       },
+       {
+         "title":"TEEN SKINS",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.teen",
+         "img":"https://lh3.googleusercontent.com/AVClXiY7DOthw8GfGI0JpiolrTVtc7nwXKjtMAe-SYUrfLRtf0GdqmeFGliGh9kZjqiQ=w300-rw"
+      }, 
       {  
          "title":"Gallery 3",
-         "img":"http://lh3.googleusercontent.com/_mAcKluNKhabX4OiVdkGMdMi2LKZsFO9FZe-CqbT7Gz60HKO7mgU6pq1APmDWzuERPOOc92vi9UOB2C1Ck2g7g",
-         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p3.json"
+         "img":"http://lh3.googleusercontent.com/1BipednBFA5gFZC613oCTChnOwXAfBpf0VnbBpTzkqKaovBNYh6P96dE9lQTI72Fj3JnbV9wVs_AzOYnrafU",
+         "url":"https://tentkls.github.io/minecraft/LETSPLAYERS/p3.json"
       }, 
        {
          "title":"PvP SKINS",
@@ -32,8 +38,8 @@
       }, 
       {  
          "title":"Gallery 4",
-         "img":"http://lh3.googleusercontent.com/n7ckHos-hpvWhUAVX1zFyC9kasFC6944kWyOuAW69yvKCIRM2djMI9Dx6nMhMGNj0WXWY2BC8PJ0R5RqC8wrLQ",
-         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p4.json"
+         "img":"http://lh3.googleusercontent.com/EVlTBS_FZD3W-l1vkxSBAyfp0H33V5syWZyPHp7rDbpXA92whntYe68pt97rAUS_M4b54RVVyH06ZnHpCrth4Q",
+         "url":"https://tentkls.github.io/minecraft/LETSPLAYERS/p4.json"
       }
    ]
 }
