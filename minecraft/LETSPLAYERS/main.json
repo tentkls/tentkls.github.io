@@ -1,0 +1,39 @@
+{  
+   "img":"http://savepic.ru/12265442.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://lh3.googleusercontent.com/NgMmRy-zr0ZtcrStfocSSX8UXY-a4uk-nfmXK2j7tG-ceAIJdS42YXdi_l3AbIc79S0wOHKFSVstNZiWHJ3H",
+         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p1.json"
+      },
+       {
+         "title":"Pony Skins",
+         "description":"Pony Skins for Minecraft\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.pony",
+         "img":"https://lh3.googleusercontent.com/LcLYuviTFD2P64_LYVEYkSGA3AwX5pfdGldeWMoRsXtJd66nx4toZuL6yZP1ovOlIqym=w300-rw"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://lh3.googleusercontent.com/SpetAOKc4FAYd4UZarxPayYJIpdMpEhdKhJRZBlLxGWlEXtiAAv8XO64TWsBHSUVhxbNWX_Q7iuFsfPqLBzlbg",
+         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://lh3.googleusercontent.com/_mAcKluNKhabX4OiVdkGMdMi2LKZsFO9FZe-CqbT7Gz60HKO7mgU6pq1APmDWzuERPOOc92vi9UOB2C1Ck2g7g",
+         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p3.json"
+      }, 
+       {
+         "title":"PvP SKINS",
+         "description":"Skins for fun!\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.minepvp",
+         "img":"https://lh3.googleusercontent.com/tfE_If3GPwBRgWdc3PmaIX5fGbtErEB_hQPQYGKFNCoHv-TDRlBysoc0qJL0xw1Ab4U=w300-rw"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://lh3.googleusercontent.com/n7ckHos-hpvWhUAVX1zFyC9kasFC6944kWyOuAW69yvKCIRM2djMI9Dx6nMhMGNj0WXWY2BC8PJ0R5RqC8wrLQ",
+         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p4.json"
+      }
+   ]
+}
