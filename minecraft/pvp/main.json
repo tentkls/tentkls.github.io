@@ -40,6 +40,36 @@
          "title":"Other",
          "img":"https://tentkls.github.io/minecraft/pvp/41.png",
          "url":"https://tentkls.github.io/minecraft/pvp/p4.json"
+      },
+       {  
+         "title":"Superheroes",
+         "img":"http://lh3.googleusercontent.com/H3Pj5zw16HETPNMhBBEIIKN2ZJgp_NmIFU-ez2Z0ab3xBZ97WzK9F4WeAbX0Hz_C9h37bQeJiiYYtF0daX4i6A",
+         "url":"https://tentkls.github.io/minecraft/hero/p3.json"
+      },
+      {  
+         "title":"Creatures",
+         "img":"http://lh3.googleusercontent.com/eN4yoOWXeYMKha37e8cuBYkvZIweAwKdw6VHjHznKUmHUll_2ACgSL17T80Clr8aIFDQajhyRuOrV6n_maXylg",
+         "url":"https://tentkls.github.io/minecraft/halloween/p1.json"
+      } ,
+      {  
+         "title":"Baby Girl",
+         "img":"http://lh3.googleusercontent.com/wrf8RpSepLuhoWnCNnwMd800DlmJX-gvdHG92eA2cPODX4X-ZlvKe3zzcE10Fi_7F9mgES0TeUujQ96DPxN0xg",
+         "url":"https://tentkls.github.io/minecraft/child/p1.json"
+      }, 
+      {  
+         "title":"Baby boy",
+         "img":"http://lh3.googleusercontent.com/JN5Slrkw1qTBK88NI6xyw50aoALnD-vzRuUjmBfN9R06vRG1_97hmtfcYVOLhGnbPsvmQcZdO98oDkWeRklVTw",
+         "url":"https://tentkls.github.io/minecraft/child/p2.json"
+      },
+      {  
+         "title":"SWAT",
+         "img":"http://lh3.googleusercontent.com/YJ5ljnMo_iUPFoqONIbnNYQVj5HrRu9GZ0655wS7MTWzC6KMlTbt_T28AehHEhm5sIm1wtsBAYSkgzBsDBNEKg",
+         "url":"https://tentkls.github.io/minecraft/military/p3.json"
+      },
+      {  
+         "title":"Cyborgs",
+         "img":"http://lh3.googleusercontent.com/QA2eExT6daG45t4vfV5QvOfPQRpN5Izc8qPLghGym3fE_02s1KnJVfMLx172SF7TzukOQVHR8-LznO_LUko7DuI",
+         "url":"https://tentkls.github.io/minecraft/mk/p2.json"
       }
    ]
 }
