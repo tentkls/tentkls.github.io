@@ -1,0 +1,27 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Tips",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2014/06/choies-com-fuchsia-mart-of-china-skirtslook-main-single.jpg",
+         "url":"https://tentkls.github.io/other/bags/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2014/06/zara-camisas-blusas-mango-jeanslook-main-single.jpg",
+         "url":"https://tentkls.github.io/other/bags/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2014/06/zara-azul-oscuro-blanco-chaquetaslook-main-single.jpg",
+         "url":"https://tentkls.github.io/other/bags/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://cdn.shopify.com/s/files/1/0510/4353/products/steelecanvas-canvas-medium_tote-188b-black-black_vcn-group_1024x1024.jpg?v=1426884814",
+         "url":"https://tentkls.github.io/other/bags/p4.json"
+      }
+   ]
+}
