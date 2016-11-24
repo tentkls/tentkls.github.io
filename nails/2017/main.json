@@ -1,0 +1,27 @@
+{  
+   "img":"http://all-fashion.info/wp-content/uploads/2016/10/ovalnie-nogti-46-325x225.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://all-fashion.info/wp-content/uploads/2016/05/dizayn-nogtey2017-289-325x225.jpg",
+         "url":"https://tentkls.github.io/nails/2017/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://all-fashion.info/wp-content/uploads/2016/05/dizayn-nogtey2017-311-325x225.jpg",
+         "url":"https://tentkls.github.io/nails/2017/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://all-fashion.info/wp-content/uploads/2016/05/dizayn-nogtey2017-400-325x225.jpg",
+         "url":"https://tentkls.github.io/nails/2017/p3.json"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://all-fashion.info/wp-content/uploads/2016/05/dizayn-nogtey2017-385-325x225.jpg",
+         "url":"https://tentkls.github.io/nails/2017/p4.json"
+      }
+   ]
+}

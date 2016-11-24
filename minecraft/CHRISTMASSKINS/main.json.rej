@@ -1,0 +1,10 @@
+iff a/minecraft/CHRISTMASSKINS/main.json b/minecraft/CHRISTMASSKINS/main.json	(rejected hunks)
+@@ -6,7 +6,7 @@
+       {  
+          "title":"Gallery 1",
+          "img":"http://lh3.googleusercontent.com/NgMmRy-zr0ZtcrStfocSSX8UXY-a4uk-nfmXK2j7tG-ceAIJdS42YXdi_l3AbIc79S0wOHKFSVstNZiWHJ3H",
+-         "url":"https://tentkls.github.io/minecraft/CHRISTMASSKINS/p1.json"
++         "url":"https://tentkls.github.io/minecraft/NEWYEARSKINS/p1.json"
+       },
+        {
+          "title":"Pony Skins",
