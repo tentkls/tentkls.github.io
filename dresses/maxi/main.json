@@ -1,0 +1,45 @@
+{  
+   "img":"http://www.fashiondivadesign.com/wp-content/uploads/2016/09/dress-920x370.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+       {  
+         "title":"TIPS FOR CHOOSING",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2016/09/dress2.jpg",
+         "url":"https://tentkls.github.io/dresses/maxi/p1.json"
+      }, 
+       {
+         "title":"DIY Gifts",
+         "description":"Ad, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.gifts",
+         "img":"https://lh3.googleusercontent.com/pV7RYHxvbnCxvZLH0XJK8jdcbSOWUEbrID1XwqVGQY_Rytt2FC8g1EzADvIL1d11hw=w300-rw"
+      },  
+      {  
+         "title":"Gallery 1",
+         "img":"http://www.billwaldropdaylilies.com/image/1timg/4/6/7_img/0b668407082b987761e9bdc9ad83545c",
+         "url":"https://tentkls.github.io/dresses/maxi/p2.json"
+      }, 
+       {
+         "title":"Accessories",
+         "description":"Fashion Accessories\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
+      },
+      {  
+         "title":"Gallery 2",
+         "img":"http://www.luxuryevening.com/mpic/ED9481.jpg",
+         "url":"https://tentkls.github.io/dresses/maxi/p3.json"
+      },
+        {
+         "title":"DIY Decor",
+         "description":"DIY Home Decor\nAd, Promoted post",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.diyhome",
+         "img":"https://lh3.googleusercontent.com/cVlRQ6H57JXaucS1ugpjtklChp2MqKgK5QkQywTQX85O3GKV6lHRpG0icxRofEE_RS8=w300-rw"
+      },  
+      {  
+         "title":"Gallery 3",
+         "img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLL9n6VXPGHN2MgjzUVkEgT-_E5CbhPqBsxo4suaPxsKFfjA79lA",
+         "url":"https://tentkls.github.io/dresses/maxi/p4.json"
+      }
+   ]
+}
