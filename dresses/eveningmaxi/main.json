@@ -1,0 +1,45 @@
+{  
+   "img":"http://www.fashiondivadesign.com/wp-content/uploads/2013/09/edressy-aquamarine-sleeh-dresseslook-main-single.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+       {  
+         "title":"Gallery",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2013/08/5550-640x960.jpg",
+         "url":"https://tentkls.github.io/dresses/eveningmaxi/p1.json"
+      }, 
+       {
+         "title":"Evening Dresses",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.EveningDresses",
+         "img":"https://lh3.googleusercontent.com/O0Y86WBrJDa483YaispDa_UUHgUdOB1xNEilWaYadiIxQBWccNl94jvjfPQeydhmtpk=w300-rw"
+      },  
+      {  
+         "title":"Gallery 1",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2013/08/5554-640x960.jpg",
+         "url":"https://tentkls.github.io/dresses/eveningmaxi/p2.json"
+      }, 
+       {
+         "title":"Accessories",
+         "description":"Fashion Accessories\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
+      },
+      {  
+         "title":"Gallery 2",
+         "img":"http://www.fashiondivadesign.com/wp-content/uploads/2013/09/color-blanco-vestidos-amarillo-cinturoneslook-main-single.jpg",
+         "url":"https://tentkls.github.io/dresses/eveningmaxi/p3.json"
+      },
+        {
+         "title":"DIY Decor",
+         "description":"DIY Home Decor\nAd",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.diyhome",
+         "img":"https://lh3.googleusercontent.com/cVlRQ6H57JXaucS1ugpjtklChp2MqKgK5QkQywTQX85O3GKV6lHRpG0icxRofEE_RS8=w300-rw"
+      },  
+      {  
+         "title":"Gallery 3",
+         "img":"http://cdn.iclothing.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/0/9004-multi-1.jpg",
+         "url":"https://tentkls.github.io/dresses/eveningmaxi/p4.json"
+      }
+   ]
+}
