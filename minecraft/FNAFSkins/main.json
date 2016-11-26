@@ -1,0 +1,50 @@
+{  
+   "img":"http://savepic.ru/12332690.jpg",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://lh3.googleusercontent.com/0gPD7vAMqcnYAAU1ZYTntLZC_geL05ADYqyX1wxXo3WvHrvK-wj52FYdgVuS-sSdJgjeIgoSPUgsFm3ErYzlJg",
+         "url":"https://tentkls.github.io/minecraft/FNAFSkins/p1.json"
+      },
+         {
+         "title":"Herobrine ",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.herobrin",
+         "img":"https://lh3.googleusercontent.com/r1E4SQl9STR17dzYRXDp3ztwjjuRny0UP32dOmU1ERHSCIbYv_o7FzVlbVhmSZkHK0AG=w300-rw"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://lh3.googleusercontent.com/Q2koZrJ6Y3en6a4UTFooyQSnIyO4MgQyDdwdFZBKU2xCogD-hNcy9PRMGYaDeQzPOUAj4MELeFXvZEL58jS0",
+         "url":"https://tentkls.github.io/minecraft/FNAFSkins/p2.json"
+      },
+      {
+         "title":"TEEN SKINS",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.bestskins.teen",
+         "img":"https://lh3.googleusercontent.com/AVClXiY7DOthw8GfGI0JpiolrTVtc7nwXKjtMAe-SYUrfLRtf0GdqmeFGliGh9kZjqiQ=w300-rw"
+      }, 
+      {  
+         "title":"Gallery 3",
+         "img":"http://lh3.googleusercontent.com/dEcLF_tKXZ7gtsHQJbeAtOeJVQO4h8UB44kDgvRtQpL_QknkNbyiN-W1Za591n3KjpYAOhBuluxkBeeIwkWau3E",
+         "url":"https://tentkls.github.io/minecraft/FNAFSkins/p3.json"
+      }, 
+       {
+         "title":"PvP SKINS",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.minepvp",
+         "img":"https://lh3.googleusercontent.com/tfE_If3GPwBRgWdc3PmaIX5fGbtErEB_hQPQYGKFNCoHv-TDRlBysoc0qJL0xw1Ab4U=w300-rw"
+      }, 
+      {  
+         "title":"Gallery 4",
+         "img":"http://lh3.googleusercontent.com/C1UZbSlECQ4B9h3J6od2VWgAOODZF0QrwWl2PBmbhWaARydsEhlVVENug0v_SOgSKKP5frLTFRcbUW4_iovTdu8",
+         "url":"https://tentkls.github.io/minecraft/FNAFSkins/p4.json"
+      },
+       {  
+         "title":"Gallery 5",
+         "img":"http://lh3.googleusercontent.com/hShdx-ALFfmMz1hdXKyYA4VyjgDwb2SCSAaCXj1ZiRniAhIBT7xZjqlLvVzZAtdiZKxPGe6W0XFrRGaReerj",
+         "url":"https://tentkls.github.io/minecraft/FNAFSkins/p5.json"
+      }
+   ]
+}
