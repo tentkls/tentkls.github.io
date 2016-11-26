@@ -6,7 +6,7 @@
        {  
          "title":"Gallery",
          "img":"http://www.fashiondivadesign.com/wp-content/uploads/2016/01/SOD_4.png",
-         "url":"https://tentkls.github.io/dresses/prom/p1.json"
+         "url":"https://tentkls.github.io/dresses/Prom/p1.json"
       }, 
        {
          "title":"DIY Gifts",
@@ -17,7 +17,7 @@
       {  
          "title":"Gallery 1",
          "img":"http://www.fashiondivadesign.com/wp-content/uploads/2016/01/SOD_1.png",
-         "url":"https://tentkls.github.io/dresses/prom/p2.json"
+         "url":"https://tentkls.github.io/dresses/Prom/p2.json"
       }, 
        {
          "title":"Accessories",
@@ -28,7 +28,7 @@
       {  
          "title":"Gallery 2",
          "img":"http://www.fashiondivadesign.com/wp-content/uploads/2016/01/SOD_3.png",
-         "url":"https://tentkls.github.io/dresses/prom/p3.json"
+         "url":"https://tentkls.github.io/dresses/Prom/p3.json"
       },
         {
          "title":"DIY Decor",
@@ -39,7 +39,7 @@
       {  
          "title":"Gallery 3",
          "img":"http://www.fashiondivadesign.com/wp-content/uploads/2016/01/SOD_2.png",
-         "url":"https://tentkls.github.io/dresses/prom/p4.json"
+         "url":"https://tentkls.github.io/dresses/Prom/p4.json"
       }
    ]
 }
