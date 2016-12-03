@@ -5,13 +5,19 @@
    "list":[  
       {  
          "title":"Blue makeup",
-         "img":"http://ashemag.com/wp-content/uploads/2014/01/How-to-Get-Smokey-blue-eyes-With-Makeup-04.jpg",
+         "img":"https://s-media-cache-ak0.pinimg.com/564x/79/14/f9/7914f94bdb773416d57ce8f8d5b78cdd.jpg",
          "url":"https://tentkls.github.io/nails/eyes/p1.json"
       }, 
       {  
          "title":"Red makeup",
          "img":"https://s-media-cache-ak0.pinimg.com/236x/2b/2e/e8/2b2ee8d0760ccd033e840c96387b6842.jpg",
          "url":"https://tentkls.github.io/nails/eyes/p2.json"
+      },
+        {
+         "title":"Fashion Accessories",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
       },
       {  
          "title":"Green makeup",
@@ -23,6 +29,12 @@
          "img":"https://s-media-cache-ak0.pinimg.com/736x/f0/09/bb/f009bb125d02cdedde3f6dd3c7261cf1.jpg",
          "url":"https://tentkls.github.io/nails/eyes/p4.json"
       }, 
+       {
+         "title":"Nails 2017",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Nails2017",
+         "img":"http://imworld.aufeminin.com/story/20140109/nail-trends-for-2014-the-best-nail-art-trends-for-the-new-year-158707_w1000.jpg"
+      },
       {  
          "title":"Other",
          "img":"http://fashionelan.com/wp-content/uploads/2014/07/Black-Smokey-Eye-Makeup-Looks-For-Eid-2014-006.jpg",
