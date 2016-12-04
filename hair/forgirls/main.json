@@ -1,0 +1,45 @@
+{  
+   "img":"http://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/06/6-ponytail-with-a-side-braid.jpg?w=500",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery  1",
+         "img":"http://content2.latest-hairstyles.com/wp-content/uploads/2013/08/Short-Textured-Hairstyle-for-Thick-Hair-500x333-14452834821.jpg",
+         "url":"https://tentkls.github.io/hair/forgirls/p1.json"
+      }, 
+        {
+         "title":"Accessories",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Accessories",
+         "img":"https://lh3.googleusercontent.com/a9g9Sv7GjZIgQgDD7Kvbgb9TedSR8Fq4swETsljgFrDRWDZO9Pc_JoqSthB144M7polh=w300-rw"
+      },
+      {  
+         "title":"Gallery 2",
+         "img":"https://media1.popsugar-assets.com/files/thumbor/Sz4i4-Hqro0t2_Jwy0Ie58j6e78/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/01/08/842/n/24155406/853f775420f95bf9_Step-6-Join-Together/i/Lace-Braid-Heart.jpg",
+         "url":"https://tentkls.github.io/hair/forgirls/p2.json"
+      },
+       {
+         "title":"Nails 2017",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.Nails2017",
+         "img":"http://imworld.aufeminin.com/story/20140109/nail-trends-for-2014-the-best-nail-art-trends-for-the-new-year-158707_w1000.jpg"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/a4/30/1b/a4301ba5e35f324fefb70c6b6fcdd393.jpg",
+         "url":"https://tentkls.github.io/hair/forgirls/p3.json"
+      },
+      {
+         "title":"Eyes MakeUp",
+         "description":"Ad",
+         "url":"https://play.google.com/store/apps/details?id=com.tentkls.eyes2016",
+         "img":"https://i.ytimg.com/vi/7xeR2WfS3F4/maxresdefault.jpg"
+      },
+      {  
+         "title":"Gallery 4",
+         "img":"http://babesinhairland.com/wp-content/uploads/preview-homecoming-prom.jpg",
+         "url":"https://tentkls.github.io/hair/forgirls/p4.json"
+      }
+   ]
+}
