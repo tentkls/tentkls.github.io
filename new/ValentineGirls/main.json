@@ -1,0 +1,21 @@
+{  
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://www.iheartartsncrafts.com/wp-content/uploads/2015/01/HeartMain.jpg",
+         "url":"https://tentkls.github.io/new/ValentineGirls/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://assets5.cutegirlshairstyles.com/wp-content/uploads/2014/02/IMG_4817.jpg",
+         "url":"https://tentkls.github.io/new/ValentineGirls/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"https://i.ytimg.com/vi/0FUXDsy3m5Q/hqdefault.jpg",
+        "url":"https://tentkls.github.io/new/ValentineGirls/p3.json"
+      }
+   ]
+}
