@@ -1,0 +1,21 @@
+{  
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://www.cuded.com/wp-content/uploads/2016/01/valentines-day-nail-art-10.jpg",
+         "url":"https://tentkls.github.io/new/valentine_nails/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://www.cuded.com/wp-content/uploads/2016/01/valentines-day-nail-art-46.jpg",
+         "url":"hhttps://tentkls.github.io/new/valentine_nails/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://www.cuded.com/wp-content/uploads/2016/01/valentines-day-nail-art-25.jpg",
+         "url":"hhttps://tentkls.github.io/new/valentine_nails/p3.json"
+      }
+   ]
+}
