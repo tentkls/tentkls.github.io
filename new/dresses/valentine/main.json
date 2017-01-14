@@ -1,0 +1,21 @@
+{  
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://3.bp.blogspot.com/-n9PVGQj2RbY/VLh7-JLRN0I/AAAAAAAAGOI/ix5U85U0QT4/s1600/Valentines%2BDay%2BDresses%2BTanvii.com.png",
+         "url":"https://tentkls.github.io/new/dresses/valentine/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://www.ashleybrookenicholas.com/wp-content/uploads/2014/01/bows-700-valentines-day-dresses-under-50.jpg",
+         "url":"https://tentkls.github.io/new/dresses/valentine/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://stilettosandsequins.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-19-at-10.27.17-PM.png",
+         "url":"https://tentkls.github.io/new/dresses/valentine/p3.json"
+      }
+   ]
+}

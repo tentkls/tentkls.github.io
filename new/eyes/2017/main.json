@@ -1,0 +1,21 @@
+{  
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://pakistaniladies.com/wp-content/uploads/2016/08/Bridal-Makeup.jpg",
+         "url":"https://tentkls.github.io/new/eyes/2017/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"https://i.ytimg.com/vi/eyyjpUmbE60/hqdefault.jpg",
+         "url":"https://tentkls.github.io/new/eyes/2017/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"https://i.ytimg.com/vi/Lspqjh9q_tQ/hqdefault.jpg",
+         "url":"https://tentkls.github.io/new/eyes/2017/p3.json"
+      }
+   ]
+}

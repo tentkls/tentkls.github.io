@@ -1,0 +1,22 @@
+{  
+   "img":"",
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://ell.h-cdn.co/assets/16/37/980x653/gallery-1473893868-nyfw-proenza-nails-ss-2017.jpg",
+         "url":"https://tentkls.github.io/new/nails/Spring2017/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://ell.h-cdn.co/assets/16/36/980x653/gallery-1473433809-desigual-po-bks-rs17-0041.jpg",
+         "url":"https://tentkls.github.io/new/nails/Spring2017/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://ell.h-cdn.co/assets/16/36/980x653/gallery-1473452102-tanya-taylor.jpg",
+         "url":"https://tentkls.github.io/new/nails/Spring2017/p3.json"
+      }
+   ]
+}

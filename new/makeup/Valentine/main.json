@@ -1,0 +1,21 @@
+{  
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"https://s-media-cache-ak0.pinimg.com/236x/ec/06/9f/ec069fdccae967f2c80268a9b8eeaa1d.jpg",
+         "url":"https://tentkls.github.io/new/makeup/Valentine/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"https://glittergirlc.files.wordpress.com/2013/02/valentine-4.jpg",
+         "url":"https://tentkls.github.io/new/makeup/Valentine/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"https://i.ytimg.com/vi/huemm9wsY3o/maxresdefault.jpg",
+         "url":"https://tentkls.github.io/new/makeup/Valentine/p3.json"
+      }
+   ]
+}

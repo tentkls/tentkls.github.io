@@ -1,0 +1,21 @@
+{  
+   "title":"",
+   "type":"simple",
+   "list":[  
+      {  
+         "title":"Gallery 1",
+         "img":"http://webneel.com/wallpaper/sites/default/files/images/02-2013/happy-valentine-day-wallpaper-3.preview.jpg",
+         "url":"https://tentkls.github.io/new/valentine/wallpapers/p1.json"
+      }, 
+      {  
+         "title":"Gallery 2",
+         "img":"http://webneel.com/wallpaper/sites/default/files/images/02-2013/valentine-day-wallpaper-14_0.preview.jpg",
+         "url":"https://tentkls.github.io/new/valentine/wallpapers/p2.json"
+      },
+      {  
+         "title":"Gallery 3",
+         "img":"http://webneel.com/wallpaper/sites/default/files/images/02-2013/valentine-day-wallpapers-17.preview.jpg",
+         "url":"https://tentkls.github.io/new/valentine/wallpapers/p3.json"
+      }
+   ]
+}
