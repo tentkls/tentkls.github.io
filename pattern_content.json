@@ -1,23 +1,5 @@
 {  
-   "img":"",
-   "title":"",
-   "type":"content",
-   "list":[  
-      {  
-         "type":"title",
-         "title":""
-      },
-      {  
-         "type":"text",
-         "text":""
-      },
-      {  
-         "type":"image",
-         "url":""
-      },
-      {  
-         "type":"link",
-         "url":""
+         "title":"Red makeup",
+         "url":"https://s-media-cache-ak0.pinimg.com/736x/8a/39/49/8a394972629b6d60e4b3eec7a842202a.jpg",
+         "urls":[]
       }
-   ]
-}
